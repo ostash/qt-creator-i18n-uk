@@ -549,14 +549,14 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Загальне</translation>
     </message>
 </context>
 <context>
     <name>CompletionSettingsPage</name>
     <message>
         <source>Behavior</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поведінка</translation>
     </message>
     <message>
         <source>&amp;Case-sensitivity:</source>
@@ -669,7 +669,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Виконуваний модуль:</translation>
     </message>
     <message>
         <source>Core File:</source>
@@ -924,11 +924,11 @@ name in different directories.</source>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Виконуваний модуль:</translation>
     </message>
     <message>
         <source>Arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Аргументи:</translation>
     </message>
     <message>
         <source>Break at &apos;main&apos;:</source>
@@ -978,38 +978,38 @@ name in different directories.</source>
     </message>
     <message>
         <source>Embedding of the UI Class</source>
-        <translation type="unfinished"></translation>
+        <translation>Вбудовування класу UI</translation>
     </message>
     <message>
         <source>Aggregation as a pointer member</source>
-        <translation type="unfinished"></translation>
+        <translation>Агрегувати як член-вказівник</translation>
     </message>
     <message>
         <source>Aggregation</source>
-        <translation type="unfinished"></translation>
+        <translation>Агрегувати</translation>
     </message>
     <message>
         <source>Multiple inheritance</source>
-        <translation type="unfinished"></translation>
+        <translation>Множинне спадування</translation>
     </message>
     <message>
         <source>Code Generation</source>
-        <translation type="unfinished"></translation>
+        <translation>Генерація коду</translation>
     </message>
     <message>
         <source>Support for changing languages at runtime</source>
-        <translation type="unfinished"></translation>
+        <translation>Підтримка зміни мови під час роботи програми</translation>
     </message>
     <message>
         <source>Use Qt module name in #include-directive</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати назву модуля Qt в директиві #include</translation>
     </message>
 </context>
 <context>
     <name>Designer::Internal::FormClassWizardPage</name>
     <message>
         <source>Choose a Class Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Оберіть назву класу</translation>
     </message>
     <message>
         <source>Class</source>
@@ -1017,7 +1017,7 @@ name in different directories.</source>
     </message>
     <message>
         <source>Configure...</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштувати...</translation>
     </message>
     <message>
         <source>%1 - Error</source>
@@ -1539,7 +1539,7 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відкинути</translation>
     </message>
     <message>
         <source>Restore Stash to Branch</source>
@@ -1566,11 +1566,11 @@ You can choose between stashing the changes or discarding them.</source>
     <name>DocSettingsPage</name>
     <message>
         <source>Add and remove compressed help files, .qch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати та видалити стиснені файли довідки, .qch.</translation>
     </message>
     <message>
         <source>Registered Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Зареєстрована документація</translation>
     </message>
     <message>
         <source>Add...</source>
@@ -1588,15 +1588,18 @@ You can choose between stashing the changes or discarding them.</source>
 &lt;p&gt;
 Add, modify, and remove document filters, which determine the documentation set displayed in the Help mode.  The attributes are defined in the documents. Select them to display a set of relevant documentation. Note that some attributes are defined in several documents.
 &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;body&gt;
+&lt;p&gt;
+Додавайте, змінюйте та видаляйте фільтри документів, які задають набір документаціїї, що відображається в режимі довідки. Атрибути визначені в документах. Оберіть їх для відображення набору відповідної документації. Майте на увазі, що деякі атрибути визначені в кількох документах.
+&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Filters</source>
-        <translation type="unfinished">Фільтри</translation>
+        <translation>Фільтри</translation>
     </message>
     <message>
         <source>Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>Атрибути</translation>
     </message>
     <message>
         <source>1</source>
@@ -1623,79 +1626,79 @@ Add, modify, and remove document filters, which determine the documentation set 
     </message>
     <message>
         <source>Family:</source>
-        <translation type="unfinished"></translation>
+        <translation>Сімейство:</translation>
     </message>
     <message>
         <source>Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Стиль:</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Розмір:</translation>
     </message>
     <message>
         <source>Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск</translation>
     </message>
     <message>
         <source>On context help:</source>
-        <translation type="unfinished"></translation>
+        <translation>При контекстній довідці:</translation>
     </message>
     <message>
         <source>Show Side-by-Side if Possible</source>
-        <translation type="unfinished"></translation>
+        <translation>Показувати збоку, якщо можливо</translation>
     </message>
     <message>
         <source>Always Show Side-by-Side</source>
-        <translation type="unfinished"></translation>
+        <translation>Завжди показувати збоку</translation>
     </message>
     <message>
         <source>Always Start Full Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Завжди запускати повну довідку</translation>
     </message>
     <message>
         <source>On help start:</source>
-        <translation type="unfinished"></translation>
+        <translation>При запуску довідки:</translation>
     </message>
     <message>
         <source>Show My Home Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати мою домашню сторінку</translation>
     </message>
     <message>
         <source>Show a Blank Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати порожню сторінку</translation>
     </message>
     <message>
         <source>Show My Tabs from Last Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати мої вкладки з останньої сесії</translation>
     </message>
     <message>
         <source>Home page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Домашня сторінка:</translation>
     </message>
     <message>
         <source>Use &amp;Current Page</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Поточна сторінка</translation>
     </message>
     <message>
         <source>Use &amp;Blank Page</source>
-        <translation type="unfinished"></translation>
+        <translation>П&amp;орожня сторінка</translation>
     </message>
     <message>
         <source>Restore to Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Типово</translation>
     </message>
     <message>
         <source>Help Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>Закладки довідки</translation>
     </message>
     <message>
         <source>Import...</source>
-        <translation type="unfinished"></translation>
+        <translation>Імпортувати...</translation>
     </message>
     <message>
         <source>Export...</source>
-        <translation type="unfinished"></translation>
+        <translation>Експортувати...</translation>
     </message>
 </context>
 <context>
@@ -1840,7 +1843,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Команда:</translation>
     </message>
     <message>
         <source>User</source>
@@ -2048,18 +2051,18 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <name>ProjectExplorer::Internal::AddTargetDialog</name>
     <message>
         <source>Add target</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати ціль</translation>
     </message>
     <message>
         <source>Target:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ціль:</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::DoubleTabWidget</name>
     <message>
         <source>DoubleTabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2073,70 +2076,70 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <name>ProjectExplorer::Internal::ProcessStepWidget</name>
     <message>
         <source>Enable custom process step</source>
-        <translation type="unfinished"></translation>
+        <translation>Увімкнути користувацький крок процесу</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Назва:</translation>
+        <translation>Назва:</translation>
     </message>
     <message>
         <source>Command:</source>
-        <translation type="unfinished"></translation>
+        <translation>Команда:</translation>
     </message>
     <message>
         <source>Working directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Робоча тека:</translation>
     </message>
     <message>
         <source>Command arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Аргументи команди:</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::ProjectExplorerSettingsPageUi</name>
     <message>
         <source>Projects Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Тека проектів</translation>
     </message>
     <message>
         <source>Current directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Поточна тека</translation>
     </message>
     <message>
         <source>directoryButtonGroup</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Тека</translation>
     </message>
     <message>
         <source>Build and Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Збірка та запуск</translation>
     </message>
     <message>
         <source>Save all files before build</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти усі файли перед збіркою</translation>
     </message>
     <message>
         <source>Always build project before running</source>
-        <translation type="unfinished"></translation>
+        <translation>Завжди збирати проект перед запуском</translation>
     </message>
     <message>
         <source>Show compiler output on building</source>
-        <translation type="unfinished"></translation>
+        <translation>Показувати вивід компілятора під час збірки</translation>
     </message>
     <message>
         <source>Clear old application output on a new run</source>
-        <translation type="unfinished"></translation>
+        <translation>Очищати старий вивід програми при новому запуску</translation>
     </message>
     <message>
         <source>Use jom instead of nmake</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовувати jom замість nmake</translation>
     </message>
     <message>
         <source>&lt;i&gt;jom&lt;/i&gt; is a drop-in replacement for &lt;i&gt;nmake&lt;/i&gt; which distributes the compilation process to multiple CPU cores. The latest binary is available at &lt;a href=&quot;ftp://ftp.qt.nokia.com/jom/&quot;&gt;ftp://ftp.qt.nokia.com/jom/&lt;/a&gt;. Disable it if you experience problems with your builds.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;i&gt;jom&lt;/i&gt; - це заміна для &lt;i&gt;nmake&lt;/i&gt;, яка розподіляє процес компіляції на декілька ядер процесора. Найсвіжіший виконуваний модуль доступний за адресою &lt;a href=&quot;ftp://ftp.qt.nokia.com/jom/&quot;&gt;ftp://ftp.qt.nokia.com/jom/&lt;/a&gt;. Вимкніть використання jom у випадку проблем зі збіркою.</translation>
     </message>
 </context>
 <context>
@@ -2147,35 +2150,35 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Recent Sessions</source>
-        <translation type="unfinished"></translation>
+        <translation>Нещодавні сесії</translation>
     </message>
     <message>
         <source>Recent Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Нещодавні проекти</translation>
     </message>
     <message>
         <source>Manage Sessions...</source>
-        <translation type="unfinished"></translation>
+        <translation>Управління сесіями...</translation>
     </message>
     <message>
         <source>Open Project...</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити проект...</translation>
     </message>
     <message>
         <source>Create Project...</source>
-        <translation type="unfinished"></translation>
+        <translation>Створити проект...</translation>
     </message>
     <message>
         <source>%1 (last session)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (остання сесія)</translation>
     </message>
     <message>
         <source>%1 (current session)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (поточна сесія)</translation>
     </message>
     <message>
         <source>New Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Новий проект</translation>
     </message>
 </context>
 <context>
@@ -2189,15 +2192,15 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <name>ProjectExplorer::Internal::WizardPage</name>
     <message>
         <source>Project management</source>
-        <translation type="unfinished"></translation>
+        <translation>Управління проектом</translation>
     </message>
     <message>
         <source>Add to &amp;project:</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати до &amp;проекту:</translation>
     </message>
     <message>
         <source>Add to &amp;version control:</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати до контролю &amp;версій:</translation>
     </message>
     <message>
         <source>The following files will be added:
@@ -2205,87 +2208,91 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
 
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Будуть додані наступні файли:
+
+
+
+</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::RemoveFileDialog</name>
     <message>
         <source>Remove File</source>
-        <translation type="unfinished">Видалити файл</translation>
+        <translation>Видалити файл</translation>
     </message>
     <message>
         <source>File to remove:</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл для видалення:</translation>
     </message>
     <message>
         <source>&amp;Delete file permanently</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Видалити файл назавжди</translation>
     </message>
     <message>
         <source>&amp;Remove from Version Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити з &amp;контролю версій</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::RunSettingsPropertiesPage</name>
     <message>
         <source>Run configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфігурація запуску:</translation>
     </message>
     <message>
         <source>+</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::SessionDialog</name>
     <message>
         <source>Session Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Менеджер сесій</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished">&amp;Новий</translation>
+        <translation>&amp;Новий</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Перей&amp;менувати</translation>
     </message>
     <message>
         <source>C&amp;lone</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Клонувати</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">Ви&amp;далити</translation>
+        <translation>Ви&amp;далити</translation>
     </message>
     <message>
         <source>&amp;Switch to</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Перемкнутись до</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;qthelp://com.nokia.qtcreator/doc/creator-project-managing-sessions.html&quot;&gt;What is a Session?&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;qthelp://com.nokia.qtcreator/doc/creator-project-managing-sessions.html&quot;&gt;Що таке сесія?&lt;/a&gt;</translation>
     </message>
     <message>
         <source>New session name</source>
-        <translation type="unfinished"></translation>
+        <translation>Назва нової сесії</translation>
     </message>
     <message>
         <source>Rename session</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейменувати сесію</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::TargetSettingsWidget</name>
     <message>
         <source>TargetSettingsWidget</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3179,11 +3186,11 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Open Project...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відкрити проект...</translation>
     </message>
     <message>
         <source>Create Project...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Створити проект...</translation>
     </message>
     <message>
         <source>The Qt Creator User Interface</source>
@@ -3239,7 +3246,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>New Project</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Новий проект</translation>
     </message>
     <message>
         <source>Cmd</source>
@@ -3649,7 +3656,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Загальне</translation>
     </message>
     <message>
         <source>Error: </source>
@@ -4585,7 +4592,7 @@ name &lt;email&gt; alias &lt;email&gt;</source>
     </message>
     <message>
         <source>Target</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ціль</translation>
     </message>
     <message>
         <source>Margin</source>
@@ -4661,7 +4668,7 @@ name &lt;email&gt; alias &lt;email&gt;</source>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Виділення</translation>
     </message>
     <message>
         <source>Selected</source>
@@ -5552,39 +5559,42 @@ Reason: %3</source>
 Decimal unsigned value (big endian): %2
 Decimal signed value (little endian): %3
 Decimal signed value (big endian): %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Десяткове беззнакове значення (little endian): %1
+Десяткове беззнакове значення (big endian): %2
+Десяткове знакове значення (little endian): %3
+Десяткове знакове значення (big endian): %4</translation>
     </message>
     <message>
         <source>Copying Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Збій копіювання</translation>
     </message>
     <message>
         <source>You cannot copy more than 4 MB of binary data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви не можете скопіювати більше ніж 4 МБ двійкових даних.</translation>
     </message>
     <message>
         <source>Copy Selection as ASCII Characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати виділене як символи ASCII</translation>
     </message>
     <message>
         <source>Copy Selection as Hex Values</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати виділене як шістнадцяткові значення</translation>
     </message>
     <message>
         <source>Jump to Address in This Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти до адреси в цьому вікні</translation>
     </message>
     <message>
         <source>Jump to Address in New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти до адреси в новому вікні</translation>
     </message>
     <message>
         <source>Jump to Address 0x%1 in This Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти до адреси 0x%1 в цьому вікні</translation>
     </message>
     <message>
         <source>Jump to Address 0x%1 in New Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти до адреси 0x%1 в новому вікні</translation>
     </message>
 </context>
 <context>
@@ -5652,34 +5662,34 @@ Decimal signed value (big endian): %4</source>
     <name>Bookmarks::Internal::BookmarkView</name>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished">Закладки</translation>
+        <translation>Закладки</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished">Пересунути вгору</translation>
+        <translation>Пересунути вгору</translation>
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished">Пересунути вниз</translation>
+        <translation>Пересунути вниз</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Видалити</translation>
     </message>
     <message>
         <source>Remove All</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити все</translation>
     </message>
 </context>
 <context>
     <name>Bookmarks::Internal::BookmarksPlugin</name>
     <message>
         <source>&amp;Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Закладки</translation>
     </message>
     <message>
         <source>Toggle Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановити/прибрати закладку</translation>
     </message>
     <message>
         <source>Ctrl+M</source>
@@ -5691,7 +5701,7 @@ Decimal signed value (big endian): %4</source>
     </message>
     <message>
         <source>Previous Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Попередня закладка</translation>
     </message>
     <message>
         <source>Ctrl+,</source>
@@ -5703,7 +5713,7 @@ Decimal signed value (big endian): %4</source>
     </message>
     <message>
         <source>Next Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Наступна закладка</translation>
     </message>
     <message>
         <source>Ctrl+.</source>
@@ -5715,11 +5725,11 @@ Decimal signed value (big endian): %4</source>
     </message>
     <message>
         <source>Previous Bookmark in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Попередня закладка в документі</translation>
     </message>
     <message>
         <source>Next Bookmark in Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Наступна закладка в документі</translation>
     </message>
 </context>
 <context>
@@ -5734,7 +5744,7 @@ Decimal signed value (big endian): %4</source>
     </message>
     <message>
         <source>New Configuration Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Назва нової конфігурації:</translation>
     </message>
 </context>
 <context>
@@ -5852,22 +5862,22 @@ Decimal signed value (big endian): %4</source>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Виконуваний модуль:</translation>
     </message>
 </context>
 <context>
     <name>CMakeProjectManager::Internal::CMakeRunConfiguration</name>
     <message>
         <source>Clean Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Чисте середовище</translation>
     </message>
     <message>
         <source>System Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Системне середовище</translation>
     </message>
     <message>
         <source>Build Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Середовище збірки</translation>
     </message>
     <message>
         <source> (disabled)</source>
@@ -5878,7 +5888,7 @@ Decimal signed value (big endian): %4</source>
     <name>CMakeProjectManager::Internal::CMakeRunConfigurationWidget</name>
     <message>
         <source>Arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Аргументи:</translation>
     </message>
     <message>
         <source>Select Working Directory</source>
@@ -5886,31 +5896,31 @@ Decimal signed value (big endian): %4</source>
     </message>
     <message>
         <source>Reset to default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Скинути до типового</translation>
     </message>
     <message>
         <source>Working Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Робоча тека:</translation>
     </message>
     <message>
         <source>Run Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Середовище виконання</translation>
     </message>
     <message>
         <source>Base environment for this runconfiguration:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Базове середовище для цієї конфігурації запуску:</translation>
     </message>
     <message>
         <source>Clean Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Чисте середовище</translation>
     </message>
     <message>
         <source>System Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Системне середовище</translation>
     </message>
     <message>
         <source>Build Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Середовище збірки</translation>
     </message>
 </context>
 <context>
@@ -5918,7 +5928,7 @@ Decimal signed value (big endian): %4</source>
     <message>
         <source>Desktop</source>
         <comment>CMake Default target display name</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Стаціонарний комп&apos;ютер</translation>
     </message>
 </context>
 <context>
@@ -6568,7 +6578,7 @@ Would you like to overwrite them?</source>
     </message>
     <message>
         <source>Save A&amp;ll</source>
-        <translation>Зберегти &amp;усе</translation>
+        <translation>Зберегти у&amp;се</translation>
     </message>
     <message>
         <source>&amp;Print...</source>
@@ -7055,7 +7065,7 @@ Note: This might remove the local file.</source>
     </message>
     <message>
         <source>Configure...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Налаштувати...</translation>
     </message>
 </context>
 <context>
@@ -7765,7 +7775,7 @@ Note: This might remove the local file.</source>
     </message>
     <message>
         <source>Number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Число</translation>
     </message>
     <message>
         <source>Function</source>
@@ -8106,7 +8116,7 @@ Note: This might remove the local file.</source>
     </message>
     <message>
         <source>&lt;Unknown&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;Невідомий&gt;</translation>
     </message>
 </context>
 <context>
@@ -8121,7 +8131,7 @@ Note: This might remove the local file.</source>
     </message>
     <message>
         <source>&lt;Unknown&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;Невідомий&gt;</translation>
     </message>
 </context>
 <context>
@@ -8382,90 +8392,10 @@ Note: This might remove the local file.</source>
     <name>Debugger</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Загальне</translation>
     </message>
     <message>
         <source>Debugger</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error Loading Symbols</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No executable to load symbols from specified.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Symbols found.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading symbols from &quot;%1&quot; failed:
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attached to core temporarily.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unable to determine executable from core file.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attached to core.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attach to core &quot;%1&quot; failed:
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot set up communication with child process: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Starting executable failed:
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The upload process failed to start. Shell missing?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The upload process crashed some time after starting successfully.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The last waitFor...() function timed out. The state of QProcess is unchanged, and you can try calling waitFor...() again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred when attempting to write to the upload process. For example, the process may not be running, or it may have closed its input channel.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred when attempting to read from the upload process. For example, the process may not be running.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An unknown error in the upload process occurred. This is the default return value of error().</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Starting remote executable failed:
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Debugger Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8511,11 +8441,11 @@ Note: This might remove the local file.</source>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Виконуваний модуль:</translation>
     </message>
     <message>
         <source>Arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Аргументи:</translation>
     </message>
 </context>
 <context>
@@ -8660,7 +8590,7 @@ Note: This might remove the local file.</source>
     </message>
     <message>
         <source>Continue anyway</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Всеодно продовжити</translation>
     </message>
     <message>
         <source>Debugging helper missing</source>
@@ -9166,7 +9096,7 @@ You can choose between waiting longer or abort debugging.</source>
     </message>
     <message>
         <source>Unable to run &apos;%1&apos;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Неможливо запустити &apos;%1&apos;: %2</translation>
     </message>
     <message>
         <source>&lt;unknown&gt;</source>
@@ -9281,7 +9211,7 @@ Do you want to stop the debugged process and load the selected snapshot?</source
     <name>Debugger::Internal::GdbChooserWidget</name>
     <message>
         <source>Unable to run &apos;%1&apos;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Неможливо запустити &apos;%1&apos;: %2</translation>
     </message>
     <message>
         <source>Binary</source>
@@ -10203,22 +10133,22 @@ Rebuilding the project might help.</source>
     <name>Designer::Internal::FormClassWizardDialog</name>
     <message>
         <source>Qt Designer Form Class</source>
-        <translation type="unfinished"></translation>
+        <translation>Клас форми Qt Designer</translation>
     </message>
     <message>
         <source>Form Template</source>
-        <translation type="unfinished">Шаблон форми</translation>
+        <translation>Шаблон форми</translation>
     </message>
     <message>
         <source>Class Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Деталі класу</translation>
     </message>
 </context>
 <context>
     <name>Designer::Internal::FormEditorFactory</name>
     <message>
         <source>This file can only be edited in &lt;b&gt;Design&lt;/b&gt; mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>Це файл можна редагувати лише в режимі &lt;b&gt;дизайну&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Switch mode</source>
@@ -10237,7 +10167,7 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>Qt Designer Form Class</source>
-        <translation type="unfinished"></translation>
+        <translation>Клас форми Qt Designer</translation>
     </message>
     <message>
         <source>Creates a Qt Designer form along with a matching class (C++ header and source file) for implementation purposes. You can add the form and class to an existing Qt C++ Project.</source>
@@ -10260,7 +10190,7 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>Signals &amp;&amp; Slots Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактор сигналів та слотів</translation>
     </message>
     <message>
         <source>Action Editor</source>
@@ -10366,7 +10296,7 @@ Rebuilding the project might help.</source>
     <name>Designer::FormWindowEditor</name>
     <message>
         <source>untitled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">без назви</translation>
     </message>
 </context>
 <context>
@@ -10531,7 +10461,7 @@ Rebuilding the project might help.</source>
     <name>FakeVim::Internal::FakeVimOptionPage</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Загальне</translation>
     </message>
     <message>
         <source>FakeVim</source>
@@ -10705,7 +10635,7 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>New Configuration Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Назва нової конфігурації:</translation>
     </message>
 </context>
 <context>
@@ -11514,15 +11444,15 @@ Rebuilding the project might help.</source>
     <name>Help::Internal::DocSettingsPage</name>
     <message>
         <source>Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Документація</translation>
     </message>
     <message>
         <source>Add Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати документацію</translation>
     </message>
     <message>
         <source>Qt Help Files (*.qch)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файли довідки Qt (*.qch)</translation>
     </message>
 </context>
 <context>
@@ -11536,23 +11466,23 @@ Rebuilding the project might help.</source>
     <name>Help::Internal::GeneralSettingsPage</name>
     <message>
         <source>General Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Загальні налаштування</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити зображення</translation>
     </message>
     <message>
         <source>Files (*.xbel)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файли (*.xbel)</translation>
     </message>
     <message>
         <source>There was an error while importing bookmarks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Під час імпортування закладок сталася помилка!</translation>
     </message>
     <message>
         <source>Save File</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти файл</translation>
     </message>
 </context>
 <context>
@@ -11580,7 +11510,7 @@ Rebuilding the project might help.</source>
     <name>Help::Internal::HelpPlugin</name>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Домівка</translation>
     </message>
     <message>
         <source>Previous Page</source>
@@ -11592,23 +11522,23 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>Add Bookmark</source>
-        <translation type="unfinished">Додати закладку</translation>
+        <translation>Додати закладку</translation>
     </message>
     <message>
         <source>Contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Зміст</translation>
     </message>
     <message>
         <source>Index</source>
-        <translation type="unfinished"></translation>
+        <translation>Покажчик</translation>
     </message>
     <message>
         <source>Context Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Контекстна довідка</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Збільшити розмір шрифту</translation>
     </message>
     <message>
         <source>Ctrl++</source>
@@ -11616,7 +11546,7 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Зменшити розмір шрифту</translation>
     </message>
     <message>
         <source>Ctrl+-</source>
@@ -11624,7 +11554,7 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>Reset Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Відновити розмір шрифту</translation>
     </message>
     <message>
         <source>Ctrl+0</source>
@@ -11648,63 +11578,63 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>Activate Index in Help mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Активувати покажчик в режимі довідки</translation>
     </message>
     <message>
         <source>Activate Contents in Help mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Активувати зміст в режимі довідки</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошук</translation>
     </message>
     <message>
         <source>Activate Search in Help mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Активувати пошук в режимі довідки</translation>
     </message>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished">Закладки</translation>
+        <translation>Закладки</translation>
     </message>
     <message>
         <source>Activate Bookmarks in Help mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Активувати закладки в режимі довідки</translation>
     </message>
     <message>
         <source>Open Pages</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкриті сторінки</translation>
     </message>
     <message>
         <source>Activate Open Pages in Help mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Активувати відкриті сторінки в режимі довідки</translation>
     </message>
     <message>
         <source>Unfiltered</source>
-        <translation type="unfinished"></translation>
+        <translation>Без фільтра</translation>
     </message>
     <message>
         <source>Go to Help Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейти в режим довідки</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Далі</translation>
+        <translation>Вперед</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation>Назад</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head&gt;&lt;title&gt;No Documentation&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;br/&gt;&lt;center&gt;&lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;No documentation available.&lt;/center&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;title&gt;Немає документації&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;br/&gt;&lt;center&gt;&lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;Немає доступної документації.&lt;/center&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Filtered by:</source>
-        <translation type="unfinished"></translation>
+        <translation>Фільтрувати за:</translation>
     </message>
     <message>
         <source>Close current Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрити поточну сторінку</translation>
     </message>
 </context>
 <context>
@@ -11728,22 +11658,22 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>&lt;title&gt;Error 404...&lt;/title&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;The page could not be found&lt;/h1&gt;&lt;br&gt;&lt;h3&gt;&apos;%1&apos;&lt;/h3&gt;&lt;/div&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;title&gt;Помилка 404...&lt;/title&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;h1&gt;Не вдалось знайти сторінку&lt;/h1&gt;&lt;br&gt;&lt;h3&gt;&apos;%1&apos;&lt;/h3&gt;&lt;/div&gt;</translation>
     </message>
 </context>
 <context>
     <name>Help::Internal::HelpViewer</name>
     <message>
         <source>Open Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити посилання</translation>
     </message>
     <message>
         <source>Open Link as New Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити посилання в новій сторінці</translation>
     </message>
     <message>
         <source>Copy Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати посилання</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -11758,7 +11688,7 @@ Rebuilding the project might help.</source>
     <name>Help::Internal::OpenPagesModel</name>
     <message>
         <source>(Untitled)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Без назви)</translation>
     </message>
 </context>
 <context>
@@ -11769,30 +11699,30 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>Close All Except %1</source>
-        <translation>Закрити все окрім %1</translation>
+        <translation>Закрити все, окрім %1</translation>
     </message>
 </context>
 <context>
     <name>Help::Internal::SearchWidget</name>
     <message>
         <source>Indexing</source>
-        <translation type="unfinished"></translation>
+        <translation>Індексування</translation>
     </message>
     <message>
         <source>Indexing Documentation...</source>
-        <translation type="unfinished"></translation>
+        <translation>Індексування документації...</translation>
     </message>
     <message>
         <source>Open Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити посилання</translation>
     </message>
     <message>
         <source>Open Link as New Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити посилання в новій сторінці</translation>
     </message>
     <message>
         <source>Copy Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати посилання</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -11807,7 +11737,7 @@ Rebuilding the project might help.</source>
     <name>Help::Internal::XbelReader</name>
     <message>
         <source>The file is not an XBEL version 1.0 file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Цей файл не є файлом XBEL версії 1.0.</translation>
     </message>
     <message>
         <source>Unknown title</source>
@@ -12135,7 +12065,7 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>Import...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Імпортувати...</translation>
     </message>
     <message>
         <source>Incoming...</source>
@@ -12625,23 +12555,24 @@ Rebuilding the project might help.</source>
     <message>
         <source>Starting: &quot;%1&quot; %2
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск: &quot;%1&quot; %2
+</translation>
     </message>
     <message>
         <source>The process &quot;%1&quot; exited normally.</source>
-        <translation type="unfinished"></translation>
+        <translation>Процес &quot;%1&quot; завершився нормально.</translation>
     </message>
     <message>
         <source>The process &quot;%1&quot; exited with code %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Процес &quot;%1&quot; завершився з кодом %2.</translation>
     </message>
     <message>
         <source>The process &quot;%1&quot; crashed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Процес &quot;%1&quot; завершився аварійно.</translation>
     </message>
     <message>
         <source>Could not start process &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось запустити процес &quot;%1&quot;</translation>
     </message>
 </context>
 <context>
@@ -12659,179 +12590,179 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>File &amp;pattern:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Маска файлів:</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::ApplicationLauncher</name>
     <message>
         <source>Failed to start program. Path or permissions wrong?</source>
-        <translation type="unfinished"></translation>
+        <translation>Збій запуску програми. Неправильний шлях чи дозволи?</translation>
     </message>
     <message>
         <source>The program has unexpectedly finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>Програма несподівано завершилась.</translation>
     </message>
     <message>
         <source>Some error has occurred while running the program.</source>
-        <translation type="unfinished"></translation>
+        <translation>Під час запуску програми стались деякі помилки.</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::LocalApplicationRunControlFactory</name>
     <message>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Виконати</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::LocalApplicationRunControl</name>
     <message>
         <source>Starting %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск %1...</translation>
     </message>
     <message>
         <source>%1 exited with code %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 завершився з кодом %2</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::BaseProjectWizardDialog</name>
     <message>
         <source>Location</source>
-        <translation type="unfinished">Розташування</translation>
+        <translation>Розташування</translation>
     </message>
     <message>
         <source>untitled</source>
         <extracomment>File path suggestion for a new project. If you choose to translate it, make sure it is a valid path name without blanks.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::BuildConfigDialog</name>
     <message>
         <source>Change build configuration &amp;&amp; continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінити конфігурацію збірки та продовжити</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Скасувати</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>Continue anyway</source>
-        <translation type="unfinished"></translation>
+        <translation>Всеодно продовжити</translation>
     </message>
     <message>
         <source>Run configuration does not match build configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Конфігурація запуску не збігається з конфігурацією збірки</translation>
     </message>
     <message>
         <source>The active build configuration builds a target that cannot be used by the active run configuration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Активна конфігурація збірки створює ціль, що не може бути використана активною конфігурацією запуску.</translation>
     </message>
     <message>
         <source>This can happen if the active build configuration uses the wrong Qt version and/or tool chain for the active run configuration (for example, running in Symbian emulator requires building with the WINSCW tool chain).</source>
-        <translation type="unfinished"></translation>
+        <translation>Це може трапитись, якщо активна конфігурація збірки використовує неправильну версію Qt та/або набір інструментів для активної конфігурації запуску (наприклад, запуск в емуляторі Symbian вимагає збірки за допомогою набору інструментів WINSCW).</translation>
     </message>
     <message>
         <source>No valid build configuration found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не знайдено правильної конфігурації збірки.</translation>
     </message>
     <message>
         <source>Active run configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Активна конфігурація запуску</translation>
     </message>
     <message>
         <source>Choose build configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Оберіть конфігурацію збірки:</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::BuildConfiguration</name>
     <message>
         <source>System Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Системне середовище</translation>
     </message>
     <message>
         <source>Clean Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Чисте середовище</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::BuildEnvironmentWidget</name>
     <message>
         <source>Clear system environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити системне середовище</translation>
     </message>
     <message>
         <source>Build Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Середовище збірки</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::BuildManager</name>
     <message numerus="yes">
         <source>Finished %1 of %n build steps</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>Завершено %1 з %n кроків збірки</numerusform>
+            <numerusform>Завершено %1 з %n кроків збірки</numerusform>
+            <numerusform>Завершено %1 з %n кроків збірки</numerusform>
         </translation>
     </message>
     <message>
         <source>Compile</source>
         <comment>Category for compiler isses listened under &apos;Build Issues&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Компіляція</translation>
     </message>
     <message>
         <source>Build System</source>
         <comment>Category for build system isses listened under &apos;Build Issues&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Система збірки</translation>
     </message>
     <message>
         <source>Canceled build.</source>
-        <translation type="unfinished"></translation>
+        <translation>Скасована збірка.</translation>
     </message>
     <message>
         <source>Build</source>
-        <translation type="unfinished"></translation>
+        <translation>Збірка</translation>
     </message>
     <message>
         <source>Error while building project %1 (target: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка під час збірки проекту %1 (ціль: %2)</translation>
     </message>
     <message>
         <source>When executing build step &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Під час виконання кроку збірки &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Running build steps for project %1...</source>
-        <translation type="unfinished"></translation>
+        <translation>Виконання кроків збірки для проекту %1...</translation>
     </message>
 </context>
 <context>
     <name>BuildSettingsPanelFactory</name>
     <message>
         <source>Build Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування збірки</translation>
     </message>
 </context>
 <context>
     <name>BuildSettingsPanel</name>
     <message>
         <source>Build Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування збірки</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::BuildSettingsWidget</name>
     <message>
         <source>No build settings available</source>
-        <translation type="unfinished"></translation>
+        <translation>Немає доступних налаштувань збірки</translation>
     </message>
     <message>
         <source>Edit build configuration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Редагувати конфігурацію збірки:</translation>
     </message>
     <message>
         <source>Add</source>
@@ -12843,96 +12774,96 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>&amp;Clone Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Клонувати обрану</translation>
     </message>
     <message>
         <source>Build Steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Кроки збірки</translation>
     </message>
     <message>
         <source>Clean Steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Кроки очистки</translation>
     </message>
     <message>
         <source>Clone configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Клонувати конфігурацію</translation>
     </message>
     <message>
         <source>New Configuration Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Назва нової конфігурації:</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::BuildStepsPage</name>
     <message>
         <source>Build Steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Кроки збірки</translation>
     </message>
     <message>
         <source>Clean Steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Кроки очистки</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished">Пересунути вгору</translation>
+        <translation>Пересунути вгору</translation>
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished">Пересунути вниз</translation>
+        <translation>Пересунути вниз</translation>
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="unfinished">Видалити елемент</translation>
+        <translation>Видалити елемент</translation>
     </message>
     <message>
         <source>Removing Step failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Збій видалення кроку</translation>
     </message>
     <message>
         <source>Can&apos;t remove build step while building</source>
-        <translation type="unfinished"></translation>
+        <translation>Неможливо видалити крок під час збірки</translation>
     </message>
     <message>
         <source>No Build Steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Немає кроків збірки</translation>
     </message>
     <message>
         <source>Add Clean Step</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати крок очистки</translation>
     </message>
     <message>
         <source>Add Build Step</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати крок збірки</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::CompileOutputWindow</name>
     <message>
         <source>Compile Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Виведення компілятора</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::CoreListenerCheckingForRunningBuild</name>
     <message>
         <source>Cancel Build &amp;&amp; Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Скасувати збірку та закрити</translation>
     </message>
     <message>
         <source>Do not Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Не закривати</translation>
     </message>
     <message>
         <source>Close Qt Creator?</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрити Qt Creator?</translation>
     </message>
     <message>
         <source>A project is currently being built.</source>
-        <translation type="unfinished"></translation>
+        <translation>Зараз збирається проект.</translation>
     </message>
     <message>
         <source>Do you want to cancel the build process and close Qt Creator anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Бажаєте скасувати процес збірки та всеодно закрити Qt Creator?</translation>
     </message>
 </context>
 <context>
@@ -12950,92 +12881,92 @@ Rebuilding the project might help.</source>
     </message>
     <message>
         <source>File &amp;pattern:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Маска файлів:</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::CustomExecutableConfigurationWidget</name>
     <message>
         <source>Name:</source>
-        <translation type="unfinished">Назва:</translation>
+        <translation>Назва:</translation>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation>Виконуваний модуль:</translation>
     </message>
     <message>
         <source>Arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation>Аргументи:</translation>
     </message>
     <message>
         <source>Working Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Робоча тека:</translation>
     </message>
     <message>
         <source>Run in &amp;Terminal</source>
-        <translation type="unfinished"></translation>
+        <translation>Запускати в &amp;терміналі</translation>
     </message>
     <message>
         <source>Run Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Середовище виконання</translation>
     </message>
     <message>
         <source>Base environment for this runconfiguration:</source>
-        <translation type="unfinished"></translation>
+        <translation>Базове середовище для цієї конфігурації запуску:</translation>
     </message>
     <message>
         <source>Clean Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Чисте середовище</translation>
     </message>
     <message>
         <source>System Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Системне середовище</translation>
     </message>
     <message>
         <source>Build Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Середовище збірки</translation>
     </message>
     <message>
         <source>No Executable specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Виконуваний модуль не вказано.</translation>
     </message>
     <message>
         <source>Running executable: &lt;b&gt;%1&lt;/b&gt; %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Виконується програма:&lt;b&gt;%1&lt;/b&gt; %2</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::CustomExecutableRunConfiguration</name>
     <message>
         <source>Custom Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Користувацький виконуваний модуль</translation>
     </message>
     <message>
         <source>Could not find the executable, please specify one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось знайти виконуваний модуль, будь ласка, вкажіть його.</translation>
     </message>
     <message>
         <source>Clean Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Чисте середовище</translation>
     </message>
     <message>
         <source>System Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Системне середовище</translation>
     </message>
     <message>
         <source>Build Environment</source>
-        <translation type="unfinished"></translation>
+        <translation>Середовище збірки</translation>
     </message>
     <message>
         <source>Run %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Виконати %1</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::CustomExecutableRunConfigurationFactory</name>
     <message>
         <source>Custom Executable</source>
-        <translation type="unfinished"></translation>
+        <translation>Користувацький виконуваний модуль</translation>
     </message>
 </context>
 <context>
@@ -13043,34 +12974,34 @@ Rebuilding the project might help.</source>
     <message>
         <source>Details</source>
         <comment>Default short title for custom wizard page to be shown in the progress pane of the wizard.</comment>
-        <translation type="unfinished">Деталі</translation>
+        <translation>Деталі</translation>
     </message>
     <message>
         <source>Creates a C++ plugin that makes it possible to offer extensions that can be loaded dynamically into applications using the QDeclarativeEngine class.</source>
-        <translation type="unfinished"></translation>
+        <translation>Створює додаток C++, який дозволяє надавати розширення, які можуть бути динамічно завантажені в програми за допомогою класу QDeclarativeEngine.</translation>
     </message>
     <message>
         <source>Custom QML Extension Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Користувацький додаток розширення QML</translation>
     </message>
     <message>
         <source>QML Extension Plugin</source>
-        <translation type="unfinished"></translation>
+        <translation>Додаток розширення QML</translation>
     </message>
     <message>
         <source>Custom QML Extension  Plugin Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметри користувацького додатку розширення QML</translation>
     </message>
     <message>
         <source>Example Object Class-name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ім&apos;я класа об&apos;єкта прикладу:</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::CustomProjectWizard</name>
     <message>
         <source>The project %1 could not be opened.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось відкрити проект %1.</translation>
     </message>
 </context>
 <context>
@@ -13084,60 +13015,67 @@ Rebuilding the project might help.</source>
     <name>ProjectExplorer::DebuggingHelperLibrary</name>
     <message>
         <source>The target directory %1 could not be created.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось створити цільову теку %1.</translation>
     </message>
     <message>
         <source>The existing file %1 could not be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось видалити існуючих файл %1.</translation>
     </message>
     <message>
         <source>The file %1 could not be copied to %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось скопіювати файл %1 в %2.</translation>
     </message>
     <message>
         <source>The debugger helpers could not be built in any of the directories:
 - %1
 
 Reason: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось зібрати помічники зневадження в жодній з цих тек:
+- %1
+
+Причина: %2</translation>
     </message>
     <message>
         <source>Building debugging helper library in %1
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Збірка бібліотеки помічника зневадження в %1
+</translation>
     </message>
     <message>
         <source>Running %1 %2...
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Виконання %1 %2...
+</translation>
     </message>
     <message>
         <source>%1 not found in PATH
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 не знайдено в PATH
+</translation>
     </message>
     <message>
         <source>Running %1 ...
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Виконання %1 ...
+</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::DependenciesModel</name>
     <message>
         <source>&lt;No other projects in this session&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;В цій сесії немає інших проектів&gt;</translation>
     </message>
 </context>
 <context>
     <name>DependenciesModel</name>
     <message>
         <source>Unable to add dependency</source>
-        <translation type="unfinished"></translation>
+        <translation>Неможливо додати залежність</translation>
     </message>
     <message>
         <source>This would create a circular dependency.</source>
-        <translation type="unfinished"></translation>
+        <translation>Це створить циклічну залежність.</translation>
     </message>
 </context>
 <context>
@@ -13172,115 +13110,115 @@ Reason: %2</source>
     <name>ProjectExplorer::EnvironmentModel</name>
     <message>
         <source>&lt;UNSET&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;НЕ ЗАДАНО&gt;</translation>
     </message>
     <message>
         <source>Variable</source>
-        <translation type="unfinished"></translation>
+        <translation>Змінна</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished">Значення</translation>
+        <translation>Значення</translation>
     </message>
     <message>
         <source>&lt;VARIABLE&gt;</source>
         <comment>Name when inserting a new variable</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ЗМІННА&gt;</translation>
     </message>
     <message>
         <source>&lt;VALUE&gt;</source>
         <comment>Value when inserting a new variable</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ЗНАЧЕННЯ&gt;</translation>
     </message>
     <message>
         <source>&lt;VARIABLE&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ЗМІННА&gt;</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::EnvironmentWidget</name>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished">&amp;Правка</translation>
+        <translation>&amp;Редагувати</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Додати</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>По&amp;вернути</translation>
     </message>
     <message>
         <source>&amp;Unset</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Скинути</translation>
     </message>
     <message>
         <source>Unset &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Скинуто &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Set &lt;b&gt;%1&lt;/b&gt; to &lt;b&gt;%2&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Встановлено &lt;b&gt;%1&lt;/b&gt; значення &lt;b&gt;%2&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Using &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовується &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Using &lt;b&gt;%1&lt;/b&gt; and</source>
-        <translation type="unfinished"></translation>
+        <translation>Використовується &lt;b&gt;%1&lt;/b&gt; та</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::FolderNavigationWidget</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити</translation>
     </message>
     <message>
         <source>Open parent folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити батьківську теку</translation>
     </message>
     <message>
         <source>Open &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Open with</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити за допомогою</translation>
     </message>
     <message>
         <source>Choose folder...</source>
-        <translation type="unfinished"></translation>
+        <translation>Оберіть теку...</translation>
     </message>
     <message>
         <source>Choose folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Оберіть теку</translation>
     </message>
     <message>
         <source>Show in Explorer...</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати в провіднику...</translation>
     </message>
     <message>
         <source>Show in Finder...</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати в Finder...</translation>
     </message>
     <message>
         <source>Show containing folder...</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати теку файлу...</translation>
     </message>
     <message>
         <source>Open Command Prompt here...</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити командний рядок тут...</translation>
     </message>
     <message>
         <source>Open Terminal here...</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити термінал тут...</translation>
     </message>
     <message>
         <source>Launching a file browser failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Збій запуску оглядача файлів</translation>
     </message>
     <message>
         <source>Unable to start the file manager:
@@ -13288,125 +13226,131 @@ Reason: %2</source>
 %1
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Неможливо запустити файловий менеджер:
+
+%1
+
+</translation>
     </message>
     <message>
         <source>&apos;%1&apos; returned the following error:
 
 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; повернула наступну помилку:
+
+%2</translation>
     </message>
     <message>
         <source>Settings...</source>
-        <translation type="unfinished">Налаштування...</translation>
+        <translation>Налаштування...</translation>
     </message>
     <message>
         <source>Launching Windows Explorer failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Збій запуску Провідника Windows</translation>
     </message>
     <message>
         <source>Could not find explorer.exe in path to launch Windows Explorer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось знайти explorer.exe в шляхах, щоб запустити Провідник Windows.</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::FolderNavigationWidgetFactory</name>
     <message>
         <source>File System</source>
-        <translation type="unfinished"></translation>
+        <translation>Файлова система</translation>
     </message>
     <message>
         <source>Synchronize with Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Синхронізувати з редактором</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::MiniTargetWidget</name>
     <message>
         <source>Select active build configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Оберіть актиіну конфігурацію збірки</translation>
     </message>
     <message>
         <source>Select active run configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Оберіть актиіну конфігурацію запуску</translation>
     </message>
     <message>
         <source>Build:</source>
-        <translation type="unfinished"></translation>
+        <translation>Збірка:</translation>
     </message>
     <message>
         <source>Run:</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск:</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::MiniProjectTargetSelector</name>
     <message>
         <source>Project</source>
-        <translation type="unfinished">Проект</translation>
+        <translation>Проект</translation>
     </message>
     <message>
         <source>Select active project</source>
-        <translation type="unfinished"></translation>
+        <translation>Оберіть активний проект</translation>
     </message>
     <message>
         <source>Build:</source>
-        <translation type="unfinished"></translation>
+        <translation>Збірка:</translation>
     </message>
     <message>
         <source>Run:</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск:</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;nobr&gt;&lt;b&gt;Project:&lt;/b&gt; %1&lt;br/&gt;%2%3&lt;b&gt;Run:&lt;/b&gt; %4%5&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;nobr&gt;&lt;b&gt;Проект:&lt;/b&gt; %1&lt;br/&gt;%2%3&lt;b&gt;Запуск:&lt;/b&gt; %4%5&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;Target:&lt;/b&gt; %1&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Ціль:&lt;/b&gt; %1&lt;br/&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;Build:&lt;/b&gt; %2&lt;br/&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Збірка:&lt;/b&gt; %2&lt;br/&gt;</translation>
     </message>
     <message>
         <source>&lt;br/&gt;%1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::OutputPane</name>
     <message>
         <source>Re-run this run-configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезапустити цю конфігурацію запуску</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished">Зупинити</translation>
+        <translation>Зупинити</translation>
     </message>
     <message>
         <source>Application Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Виведення програми</translation>
     </message>
     <message>
         <source>Application Output Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Вікно виведення програми</translation>
     </message>
     <message>
         <source>Unable to close</source>
-        <translation type="unfinished"></translation>
+        <translation>Неможливо закрити</translation>
     </message>
     <message>
         <source>The application is still running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Програма ще виконується.</translation>
     </message>
     <message>
         <source>Force it to quit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрити примусово?</translation>
     </message>
     <message>
         <source>Force Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Примусовий вихід</translation>
     </message>
 </context>
 <context>
@@ -13414,7 +13358,8 @@ Reason: %2</source>
     <message>
         <source>Additional output omitted
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Додаткове виведення пропущено
+</translation>
     </message>
 </context>
 <context>
@@ -13422,11 +13367,11 @@ Reason: %2</source>
     <message>
         <source>Project File Factory</source>
         <comment>ProjectExplorer::ProjectFileFactory display name.</comment>
-        <translation type="unfinished"></translation>
+        <translation>Фабрика файлів проекту</translation>
     </message>
     <message>
         <source>Could not open the following project: &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось відкрити наступний проект: &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -13434,7 +13379,7 @@ Reason: %2</source>
     <message>
         <source>Custom Process Step</source>
         <comment>item in combobox</comment>
-        <translation type="unfinished"></translation>
+        <translation>Користувацький крок процесу</translation>
     </message>
 </context>
 <context>
@@ -13445,45 +13390,45 @@ Reason: %2</source>
     </message>
     <message>
         <source>(disabled)</source>
-        <translation type="unfinished"></translation>
+        <translation>(вимкнено)</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::ProjectConfiguration</name>
     <message>
         <source>Clone of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Клон %1</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::ProjectExplorerPlugin</name>
     <message>
         <source>Projects</source>
-        <translation type="unfinished">Проекти</translation>
+        <translation>Проекти</translation>
     </message>
     <message>
         <source>&amp;Build</source>
-        <translation type="unfinished"></translation>
+        <translation>З&amp;бірка</translation>
     </message>
     <message>
         <source>&amp;Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>З&amp;невадження</translation>
     </message>
     <message>
         <source>&amp;Start Debugging</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Почати зневадження</translation>
     </message>
     <message>
         <source>Open With</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити за допомогою</translation>
     </message>
     <message>
         <source>Session Manager...</source>
-        <translation type="unfinished"></translation>
+        <translation>Менеджер сесій...</translation>
     </message>
     <message>
         <source>New Project...</source>
-        <translation type="unfinished"></translation>
+        <translation>Новий проект...</translation>
     </message>
     <message>
         <source>Ctrl+Shift+N</source>
@@ -13491,7 +13436,7 @@ Reason: %2</source>
     </message>
     <message>
         <source>Load Project...</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажити проект...</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -13499,31 +13444,31 @@ Reason: %2</source>
     </message>
     <message>
         <source>Open File</source>
-        <translation type="unfinished">Відкрити файл</translation>
+        <translation>Відкрити файл</translation>
     </message>
     <message>
         <source>Recent P&amp;rojects</source>
-        <translation type="unfinished"></translation>
+        <translation>Нещодавні п&amp;роекти</translation>
     </message>
     <message>
         <source>Close Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрити проект</translation>
     </message>
     <message>
         <source>Close Project &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрити проект &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Close All Projects</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрити усі проекти</translation>
     </message>
     <message>
         <source>Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Сесія</translation>
     </message>
     <message>
         <source>Build All</source>
-        <translation type="unfinished"></translation>
+        <translation>Зібрати все</translation>
     </message>
     <message>
         <source>Ctrl+Shift+B</source>
@@ -13531,19 +13476,19 @@ Reason: %2</source>
     </message>
     <message>
         <source>Rebuild All</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезібрати все</translation>
     </message>
     <message>
         <source>Clean All</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити все</translation>
     </message>
     <message>
         <source>Build Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Зібрати проект</translation>
     </message>
     <message>
         <source>Build Project &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Зібрати проект &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Ctrl+B</source>
@@ -13551,35 +13496,35 @@ Reason: %2</source>
     </message>
     <message>
         <source>Rebuild Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезібрати проект</translation>
     </message>
     <message>
         <source>Rebuild Project &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезібрати проект &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Clean Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити проект</translation>
     </message>
     <message>
         <source>Clean Project &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити проект &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Build Without Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Зібрати без залежностей</translation>
     </message>
     <message>
         <source>Rebuild Without Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезібрати без залежностей</translation>
     </message>
     <message>
         <source>Clean Without Dependencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Очистити без залежностей</translation>
     </message>
     <message>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Запустити</translation>
     </message>
     <message>
         <source>Ctrl+R</source>
@@ -13587,11 +13532,11 @@ Reason: %2</source>
     </message>
     <message>
         <source>Cancel Build</source>
-        <translation type="unfinished"></translation>
+        <translation>Скасувати збірку</translation>
     </message>
     <message>
         <source>Start Debugging</source>
-        <translation type="unfinished"></translation>
+        <translation>Почати зневадження</translation>
     </message>
     <message>
         <source>F5</source>
@@ -13599,15 +13544,15 @@ Reason: %2</source>
     </message>
     <message>
         <source>Add New...</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати новий...</translation>
     </message>
     <message>
         <source>Add Existing Files...</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати існуючі файли...</translation>
     </message>
     <message>
         <source>Remove File...</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити файл...</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -13615,7 +13560,7 @@ Reason: %2</source>
     </message>
     <message>
         <source>Open Build/Run Target Selector...</source>
-        <translation type="unfinished"></translation>
+        <translation>Відкрити вибір цілі збірки/запуску...</translation>
     </message>
     <message>
         <source>Ctrl+T</source>
@@ -13623,24 +13568,24 @@ Reason: %2</source>
     </message>
     <message>
         <source>Load Project</source>
-        <translation type="unfinished"></translation>
+        <translation>Завантажити проект</translation>
     </message>
     <message>
         <source>New Project</source>
         <comment>Title of dialog</comment>
-        <translation type="unfinished"></translation>
+        <translation>Новий проект</translation>
     </message>
     <message>
         <source>Always save files before build</source>
-        <translation type="unfinished"></translation>
+        <translation>Завжди зберігати файли перед збіркою</translation>
     </message>
     <message>
         <source>Cannot run without a project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неможливо запустити без проекта.</translation>
     </message>
     <message>
         <source>Cannot debug without a project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Неможливо зневадити без проекта.</translation>
     </message>
     <message>
         <source>New File</source>
@@ -13649,59 +13594,63 @@ Reason: %2</source>
     </message>
     <message>
         <source>Add Existing Files</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати існуючі файли</translation>
     </message>
     <message>
         <source>Could not add following files to project %1:
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось додати до проекту %1 наступні файли:
+</translation>
     </message>
     <message>
         <source>Add files to project failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Збій додавання файлів до проекту</translation>
     </message>
     <message>
         <source>Add to Version Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати до контролю версій</translation>
     </message>
     <message>
         <source>Add files
 %1
 to version control (%2)?</source>
-        <translation type="unfinished"></translation>
+        <translation>Додати файли
+%1
+до контролю версій (%2)?</translation>
     </message>
     <message>
         <source>Could not add following files to version control (%1)
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось додати до контролю версій (%1) наступні файли
+</translation>
     </message>
     <message>
         <source>Add files to version control failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Збій додавання файлів до контролю версій</translation>
     </message>
     <message>
         <source>Remove file failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Збій видалення файлу</translation>
     </message>
     <message>
         <source>Could not remove file %1 from project %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось видалити файл %1 з проекту %2.</translation>
     </message>
     <message>
         <source>Delete file failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Збій видалення файлу</translation>
     </message>
     <message>
         <source>Could not delete file %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось видалити файл %1.</translation>
     </message>
     <message>
         <source>Projects (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Проекти (%1)</translation>
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation type="unfinished">Всі файли (*)</translation>
+        <translation>Всі файли (*)</translation>
     </message>
 </context>
 <context>
@@ -13719,7 +13668,7 @@ to version control (%2)?</source>
     <name>ProjectExplorer::Internal::ProjectExplorerSettingsPage</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Загальне</translation>
     </message>
 </context>
 <context>
@@ -13729,35 +13678,37 @@ to version control (%2)?</source>
         <extracomment>No version control system selected
 ----------
 No project selected</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Немає&gt;</translation>
     </message>
     <message>
         <source>Failed to add one or more files to project
 &apos;%1&apos; (%2).</source>
-        <translation type="unfinished"></translation>
+        <translation>Збій додавання одного чи кількох файлів до проекту
+&apos;%1&apos; (%2).
+</translation>
     </message>
     <message>
         <source>A version control system repository could not be created in &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось створити репозитарій системи контролю версій в &apos;%1&apos;.</translation>
     </message>
     <message>
         <source>Failed to add &apos;%1&apos; to the version control system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Збій додавання &apos;%1&apos; до системи контролю версій.</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::ProjectTreeWidget</name>
     <message>
         <source>Simplify tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Спростити дерево</translation>
     </message>
     <message>
         <source>Hide generated files</source>
-        <translation type="unfinished"></translation>
+        <translation>Приховати згенеровані файли</translation>
     </message>
     <message>
         <source>Synchronize with Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Синхронізувати з редактором</translation>
     </message>
 </context>
 <context>
@@ -13768,50 +13719,50 @@ No project selected</extracomment>
     </message>
     <message>
         <source>Filter tree</source>
-        <translation type="unfinished"></translation>
+        <translation>Фільтрувати дерево</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::ProjectWelcomePage</name>
     <message>
         <source>Develop</source>
-        <translation type="unfinished"></translation>
+        <translation>Розробка</translation>
     </message>
 </context>
 <context>
     <name>TargetSettingsPanelFactory</name>
     <message>
         <source>Targets</source>
-        <translation type="unfinished"></translation>
+        <translation>Цілі</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::ProjectWizardPage</name>
     <message>
         <source>Summary</source>
-        <translation type="unfinished"></translation>
+        <translation>Підсумок</translation>
     </message>
     <message>
         <source>Files to be added:</source>
-        <translation type="unfinished"></translation>
+        <translation>Будуть додані файли:</translation>
     </message>
     <message>
         <source>Files to be added in</source>
-        <translation type="unfinished"></translation>
+        <translation>Будуть додані файли в</translation>
     </message>
 </context>
 <context>
     <name>RunSettingsPanelFactory</name>
     <message>
         <source>Run Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування запуску</translation>
     </message>
 </context>
 <context>
     <name>RunSettingsPanel</name>
     <message>
         <source>Run Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Налаштування запуску</translation>
     </message>
 </context>
 <context>
@@ -13829,31 +13780,31 @@ No project selected</extracomment>
     <name>ProjectExplorer::Internal::SessionFile</name>
     <message>
         <source>Session</source>
-        <translation type="unfinished"></translation>
+        <translation>Сесія</translation>
     </message>
     <message>
         <source>Untitled</source>
         <comment>default file name to display</comment>
-        <translation type="unfinished"></translation>
+        <translation>Без назви</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::SessionManager</name>
     <message>
         <source>Error while restoring session</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка при відновлені сесії</translation>
     </message>
     <message>
         <source>Could not restore session %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось відновити сесію %1</translation>
     </message>
     <message>
         <source>Error while saving session</source>
-        <translation type="unfinished"></translation>
+        <translation>Помилка при збереженні сесії</translation>
     </message>
     <message>
         <source>Could not save session to file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось зберегти сесію до файлу %1</translation>
     </message>
     <message>
         <source>Qt Creator</source>
@@ -13861,75 +13812,76 @@ No project selected</extracomment>
     </message>
     <message>
         <source>Untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>Без назви</translation>
     </message>
     <message>
         <source>Session (&apos;%1&apos;)</source>
-        <translation type="unfinished"></translation>
+        <translation>Сесія (&apos;%1&apos;)</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::SessionNameInputDialog</name>
     <message>
         <source>Enter the name of the session:</source>
-        <translation type="unfinished"></translation>
+        <translation>Введіть назву сесії:</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::TargetSelector</name>
     <message>
         <source>Run</source>
-        <translation type="unfinished"></translation>
+        <translation>Виконати</translation>
     </message>
     <message>
         <source>Build</source>
-        <translation type="unfinished"></translation>
+        <translation>Зібрати</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::TargetSettingsPanelWidget</name>
     <message>
         <source>No target defined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ціль не визначена.</translation>
     </message>
     <message>
         <source>Qt Creator</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Do you really want to remove the
 &quot;%1&quot; target?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви дійсно бажаєте видалити
+ціль &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::TaskWindow</name>
     <message>
         <source>Build Issues</source>
-        <translation type="unfinished"></translation>
+        <translation>Повідомлення збірки</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished">&amp;Копіювати</translation>
+        <translation>&amp;Копіювати</translation>
     </message>
     <message>
         <source>&amp;Annotate</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Анотувати</translation>
     </message>
     <message>
         <source>Show Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Показувати попередження</translation>
     </message>
     <message>
         <source>Filter by categories</source>
-        <translation type="unfinished"></translation>
+        <translation>Фільтрувати за категоріями</translation>
     </message>
 </context>
 <context>
     <name>ProjectExplorer::Internal::TaskDelegate</name>
     <message>
         <source>File not found: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл не знайдено: %1</translation>
     </message>
 </context>
 <context>
@@ -13980,7 +13932,7 @@ No project selected</extracomment>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Інший</translation>
     </message>
     <message>
         <source>&lt;Invalid&gt;</source>
@@ -13988,7 +13940,7 @@ No project selected</extracomment>
     </message>
     <message>
         <source>&lt;Unknown&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;Невідомий&gt;</translation>
     </message>
 </context>
 <context>
@@ -13996,7 +13948,7 @@ No project selected</extracomment>
     <message>
         <source>Desktop</source>
         <comment>Generic desktop target display name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Стаціонарний комп&apos;ютер</translation>
     </message>
 </context>
 <context>
@@ -14004,7 +13956,7 @@ No project selected</extracomment>
     <message>
         <source>Desktop</source>
         <comment>Qt4 Desktop target display name</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Стаціонарний комп&apos;ютер</translation>
     </message>
     <message>
         <source>Symbian Emulator</source>
@@ -14061,11 +14013,11 @@ No project selected</extracomment>
     <name>ProjectExplorer::Internal::WinGuiProcess</name>
     <message>
         <source>The process could not be started!</source>
-        <translation type="unfinished"></translation>
+        <translation>Не вдалось запустити процес!</translation>
     </message>
     <message>
         <source>Cannot retrieve debugging output!</source>
-        <translation type="unfinished"></translation>
+        <translation>Неможливо отримати зневаджувальне виведення!</translation>
     </message>
 </context>
 <context>
@@ -14510,7 +14462,7 @@ Ids must begin with a lowercase letter.</source>
     </message>
     <message>
         <source>File System</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Файлова система</translation>
     </message>
     <message>
         <source>Open Documents</source>
@@ -14721,7 +14673,7 @@ Ids must begin with a lowercase letter.</source>
     <name>Qml::InspectorOutputWidget</name>
     <message>
         <source>Output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вивід</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -14920,7 +14872,7 @@ Please check your project settings.</source>
     <name>QmlJSEditor::Internal::ModelManager</name>
     <message>
         <source>Indexing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Індексування</translation>
     </message>
 </context>
 <context>
@@ -15087,7 +15039,7 @@ QML application projects are executed by the Qt QML Viewer and do not need to be
     </message>
     <message>
         <source>%1 exited with code %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 завершився з кодом %2</translation>
     </message>
 </context>
 <context>
@@ -15437,11 +15389,11 @@ Did you start Qemu?</source>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Виконуваний модуль:</translation>
     </message>
     <message>
         <source>Arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Аргументи:</translation>
     </message>
 </context>
 <context>
@@ -15753,7 +15705,7 @@ Check if the phone is connected and App TRK is running.</source>
     </message>
     <message>
         <source>Waiting for App TRK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Очікування App TRK</translation>
     </message>
     <message>
         <source>Please start App TRK on %1.</source>
@@ -15814,7 +15766,7 @@ Check if the phone is connected and App TRK is running.</source>
     </message>
     <message>
         <source>Arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Аргументи:</translation>
     </message>
     <message>
         <source>Installation file:</source>
@@ -15920,7 +15872,7 @@ Check if the phone is connected and App TRK is running.</source>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Виконуваний модуль:</translation>
     </message>
 </context>
 <context>
@@ -15934,7 +15886,7 @@ Check if the phone is connected and App TRK is running.</source>
     <name>Qt4ProjectManager::Internal::S60EmulatorRunControl</name>
     <message>
         <source>Starting %1...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запуск %1...</translation>
     </message>
     <message>
         <source>[Qt Message]</source>
@@ -15942,7 +15894,7 @@ Check if the phone is connected and App TRK is running.</source>
     </message>
     <message>
         <source>%1 exited with code %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 завершився з кодом %2</translation>
     </message>
 </context>
 <context>
@@ -15964,19 +15916,19 @@ Check if the phone is connected and App TRK is running.</source>
     <name>ProjectExplorer::Internal::S60ProjectChecker</name>
     <message>
         <source>The Symbian SDK and the project sources must reside on the same drive.</source>
-        <translation type="unfinished"></translation>
+        <translation>Symbian SDK та коди проекту мають знаходитись на одному диску.</translation>
     </message>
     <message>
         <source>The Symbian SDK was not found for Qt version %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Не знайдено Symbian SDK для Qt версії %1.</translation>
     </message>
     <message>
         <source>The &quot;Open C/C++ plugin&quot; is not installed in the Symbian SDK or the Symbian SDK path is misconfigured for Qt version %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>До Symbian SDK не встановлено &quot;Open C/C++ plugin&quot; або шлях до Symbian SDK path неправильно налаштовано для Qt версії %1.</translation>
     </message>
     <message>
         <source>The Symbian toolchain does not handle special characters in a project path well.</source>
-        <translation type="unfinished"></translation>
+        <translation>Набір інструментів Symbian не обробляє спеціальні символи в шляху проекту як слід.</translation>
     </message>
 </context>
 <context>
@@ -15991,7 +15943,7 @@ Check if the phone is connected and App TRK is running.</source>
     </message>
     <message>
         <source>New Configuration Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Назва нової конфігурації:</translation>
     </message>
     <message>
         <source>%1 Debug</source>
@@ -16034,7 +15986,7 @@ Check if the phone is connected and App TRK is running.</source>
     </message>
     <message>
         <source>Could not set permissions to writable.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не вдалось встановити дозвіл на запис.</translation>
     </message>
     <message>
         <source>There are unsaved changes for project file %1.</source>
@@ -16120,11 +16072,11 @@ Check if the phone is connected and App TRK is running.</source>
     </message>
     <message>
         <source>Executable:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Виконуваний модуль:</translation>
     </message>
     <message>
         <source>Arguments:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Аргументи:</translation>
     </message>
     <message>
         <source>Select Working Directory</source>
@@ -16132,11 +16084,11 @@ Check if the phone is connected and App TRK is running.</source>
     </message>
     <message>
         <source>Reset to default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Скинути до типового</translation>
     </message>
     <message>
         <source>Working directory:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Робоча тека:</translation>
     </message>
     <message>
         <source>Run in terminal</source>
@@ -16148,38 +16100,38 @@ Check if the phone is connected and App TRK is running.</source>
     </message>
     <message>
         <source>Run Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Середовище виконання</translation>
     </message>
     <message>
         <source>Base environment for this runconfiguration:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Базове середовище для цієї конфігурації запуску:</translation>
     </message>
     <message>
         <source>Clean Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Чисте середовище</translation>
     </message>
     <message>
         <source>System Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Системне середовище</translation>
     </message>
     <message>
         <source>Build Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Середовище збірки</translation>
     </message>
 </context>
 <context>
     <name>Qt4ProjectManager::Internal::Qt4RunConfiguration</name>
     <message>
         <source>Clean Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Чисте середовище</translation>
     </message>
     <message>
         <source>System Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Системне середовище</translation>
     </message>
     <message>
         <source>Build Environment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Середовище збірки</translation>
     </message>
     <message>
         <source>Qt4 RunConfiguration</source>
@@ -16318,7 +16270,7 @@ Check if the phone is connected and App TRK is running.</source>
     <message>
         <source>Desktop</source>
         <comment>Qt Version is meant for the desktop</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Стаціонарний комп&apos;ютер</translation>
     </message>
     <message>
         <source>Symbian</source>
@@ -16756,26 +16708,26 @@ Preselects Qt for Simulator and mobile targets if available</source>
     <name>ResourceEditor::Internal::ResourceEditorPlugin</name>
     <message>
         <source>Creates a Qt Resource file (.qrc) that you can add to a Qt C++ project.</source>
-        <translation type="unfinished"></translation>
+        <translation>Створення файлу ресурсів Qt (.qrc), який ви можете додати до проекту Qt C++.</translation>
     </message>
     <message>
         <source>Qt Resource file</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл ресурсів Qt</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished">&amp;Повернути</translation>
+        <translation>&amp;Повернути</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished">П&amp;овторити</translation>
+        <translation>П&amp;овторити</translation>
     </message>
 </context>
 <context>
     <name>ResourceEditor::Internal::ResourceEditorW</name>
     <message>
         <source>untitled</source>
-        <translation type="unfinished"></translation>
+        <translation>без назви</translation>
     </message>
 </context>
 <context>
@@ -17780,7 +17732,7 @@ The following encodings are likely to fit:</source>
     </message>
     <message>
         <source>Cannot open &apos;%1&apos;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Неможливо відкрити &apos;%1&apos;: %2</translation>
     </message>
 </context>
 <context>
@@ -17828,7 +17780,7 @@ The following encodings are likely to fit:</source>
     <name>VCSBase::VCSBaseOutputWindow</name>
     <message>
         <source>Open &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відкрити &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -17936,27 +17888,27 @@ The following encodings are likely to fit:</source>
     <name>BookmarkWidget</name>
     <message>
         <source>Delete Folder</source>
-        <translation type="unfinished">Видалити теку</translation>
+        <translation>Видалити теку</translation>
     </message>
     <message>
         <source>Rename Folder</source>
-        <translation type="unfinished">Перейменувати теку</translation>
+        <translation>Перейменувати теку</translation>
     </message>
     <message>
         <source>Show Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати закладку</translation>
     </message>
     <message>
         <source>Show Bookmark in New Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати закладку в новій вкладці</translation>
     </message>
     <message>
         <source>Delete Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Видалити закладку</translation>
     </message>
     <message>
         <source>Rename Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>Перейменувати закладку</translation>
     </message>
     <message>
         <source>Add</source>
@@ -17979,7 +17931,7 @@ The following encodings are likely to fit:</source>
     </message>
     <message>
         <source>You are going to delete a Folder which will also&lt;br&gt;remove its content. Are you sure you would like to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ви збираєтесь видалити теку, що призведе&lt;br&gt;до видалення її вмісту.&lt;br&gt;Ви впевнені, що бажаєте продовжити?</translation>
     </message>
     <message>
         <source>New Folder</source>
@@ -17990,11 +17942,11 @@ The following encodings are likely to fit:</source>
     <name>ContentWindow</name>
     <message>
         <source>Open Link</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відкрити посилання</translation>
     </message>
     <message>
         <source>Open Link as New Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відкрити посилання в новій сторінці</translation>
     </message>
 </context>
 <context>
@@ -18005,11 +17957,11 @@ The following encodings are likely to fit:</source>
     </message>
     <message>
         <source>Open Link</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відкрити посилання</translation>
     </message>
     <message>
         <source>Open Link as New Page</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відкрити посилання в новій сторінці</translation>
     </message>
 </context>
 <context>
@@ -18541,7 +18493,7 @@ The following encodings are likely to fit:</source>
     </message>
     <message>
         <source>Qt Resource file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Файл ресурсів Qt</translation>
     </message>
     <message>
         <source>Subversion submit template</source>
@@ -18557,6 +18509,121 @@ The following encodings are likely to fit:</source>
     </message>
     <message>
         <source>Differences between files</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Utils::FileNameValidatingLineEdit</name>
+    <message>
+        <source>Name is empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name contains white space.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid character &apos;%1&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid characters &apos;%1&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name matches MS Windows device. (%1).</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Debugger::Internal::CoreGdbAdapter</name>
+    <message>
+        <source>Error Loading Symbols</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No executable to load symbols from specified.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Symbols found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading symbols from &quot;%1&quot; failed:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attached to core temporarily.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to determine executable from core file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attached to core.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attach to core &quot;%1&quot; failed:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Debugger::Internal::PlainGdbAdapter</name>
+    <message>
+        <source>Cannot set up communication with child process: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Starting executable failed:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Debugger::Internal::RemoteGdbAdapter</name>
+    <message>
+        <source>The upload process failed to start. Shell missing?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The upload process crashed some time after starting successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The last waitFor...() function timed out. The state of QProcess is unchanged, and you can try calling waitFor...() again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred when attempting to write to the upload process. For example, the process may not be running, or it may have closed its input channel.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred when attempting to read from the upload process. For example, the process may not be running.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An unknown error in the upload process occurred. This is the default return value of error().</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Starting remote executable failed:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Debugger::Internal::TermGdbAdapter</name>
+    <message>
+        <source>Debugger Error</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
