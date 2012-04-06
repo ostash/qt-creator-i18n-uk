@@ -779,19 +779,6 @@ p, li { white-space: pre-wrap; }
         <source>Break on exception</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>&lt;html&gt;&lt;body&gt;&lt;p&gt;Specify the path to the &lt;a href=&quot;%1&quot;&gt;Debugging Tools for Windows&lt;/a&gt; (%2) here.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; Restarting Qt Creator is required for these settings to take effect.&lt;/p&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <extracomment>Label text for path configuration. %2 is &quot;x-bit version&quot;.</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>64-bit version</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>32-bit version</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>CommonOptionsPage</name>
@@ -3837,6 +3824,10 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <source>Debugging helpers:</source>
         <translation>Помічники зневадження:</translation>
     </message>
+    <message>
+        <source>SBS v2 directory:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ShowBuildLog</name>
@@ -4928,6 +4919,14 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message>
         <source>Anchors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set anchors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting anchors in states is not supported.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7385,6 +7384,10 @@ Note: This might remove the local file.</source>
         <translation>Так, я знаю, що я роблю.</translation>
     </message>
     <message>
+        <source>&amp;Refactor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unused variable</source>
         <translation>Невикористана змінна</translation>
     </message>
@@ -7796,6 +7799,10 @@ Note: This might remove the local file.</source>
 </context>
 <context>
     <name>CVS::Internal::CVSPlugin</name>
+    <message>
+        <source>Cannot find repository for &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Parsing of the log output failed</source>
         <translation type="unfinished"></translation>
@@ -8326,6 +8333,19 @@ Note: This might remove the local file.</source>
 </context>
 <context>
     <name>Debugger::Internal::CdbOptionsPageWidget</name>
+    <message>
+        <source>&lt;html&gt;&lt;body&gt;&lt;p&gt;Specify the path to the &lt;a href=&quot;%1&quot;&gt;Debugging Tools for Windows&lt;/a&gt; (%2) here.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; Restarting Qt Creator is required for these settings to take effect.&lt;/p&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <extracomment>Label text for path configuration. %2 is &quot;x-bit version&quot;.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>64-bit version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>32-bit version</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Autodetect</source>
         <translation type="unfinished">Автовизначення</translation>
@@ -9163,6 +9183,10 @@ You can choose between waiting longer or abort debugging.</source>
 </context>
 <context>
     <name>Debugger::Internal::GdbChooserWidget</name>
+    <message>
+        <source>Unable to run &apos;%1&apos;: %2</source>
+        <translation type="unfinished">Неможливо запустити &apos;%1&apos;: %2</translation>
+    </message>
     <message>
         <source>Binary</source>
         <translation type="unfinished"></translation>
@@ -10830,7 +10854,7 @@ Rebuilding the project might help.</source>
 <context>
     <name>Git::Internal::GitClient</name>
     <message>
-        <source>Note that the git plugin for QtCreator is not able to interact with the server so far. Thus, manual ssh-identification etc. will not work.</source>
+        <source>Unable to determine the repository for %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11468,44 +11492,6 @@ Rebuilding the project might help.</source>
     <message>
         <source>The binary &apos;%1&apos; could not be located in the path &apos;%2&apos;</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>HelloWorld::Internal::HelloWorldPlugin</name>
-    <message>
-        <source>Say &quot;&amp;Hello World!&quot;</source>
-        <translation>Сказати &quot;&amp;Привіт світ!&quot;</translation>
-    </message>
-    <message>
-        <source>&amp;Hello World</source>
-        <translation>&amp;Привіт світ</translation>
-    </message>
-    <message>
-        <source>Hello world!</source>
-        <translation>Привіт світ!</translation>
-    </message>
-    <message>
-        <source>Hello World PushButton!</source>
-        <translation>Кнопка &quot;Привіт світ&quot;!</translation>
-    </message>
-    <message>
-        <source>Hello World!</source>
-        <translation>Привіт світ!</translation>
-    </message>
-    <message>
-        <source>Hello World! Beautiful day today, isn&apos;t it?</source>
-        <translation>Привіт світ! Сьогодні гарний день, правда?</translation>
-    </message>
-</context>
-<context>
-    <name>HelloWorld::Internal::HelloWorldWindow</name>
-    <message>
-        <source>Focus me to activate my context!</source>
-        <translation>Передайте фокус на мене, щоб активувати мій контекст!</translation>
-    </message>
-    <message>
-        <source>Hello, world!</source>
-        <translation>Привіт, світ!</translation>
     </message>
 </context>
 <context>
@@ -14197,6 +14183,10 @@ to project &apos;%2&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cannot write file: &quot;%1&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15204,10 +15194,6 @@ Did you start Qemu?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error: Could not create file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Packaging error: Could not start command &apos;%1&apos;. Reason: %2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -15227,6 +15213,10 @@ Did you start Qemu?</source>
         <source>Your project name contains characters not allowed in Debian packages.
 They must only use lower-case letters, numbers, &apos;-&apos;, &apos;+&apos; and &apos;.&apos;.
 We will try to work around that, but you may experience problems.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error: Could not create file &apos;%1&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16210,10 +16200,6 @@ S60 emulator run configuration default display name, %1 is base pro-File name</e
         <source>Warning: Cannot build QMLObserver; Qt version must be 4.7.1 or higher.</source>
         <translation>Попередження: Неможливо зібрати оглядач QML; версія Qt має бути 4.7.1 або вище.</translation>
     </message>
-    <message>
-        <source>Warning: Cannot build qmldump; Qt version must be 4.7.1 or higher.</source>
-        <translation>Попередження: Неможливо зібрати qmldump; версія Qt має бути 4.7.1 або вище.</translation>
-    </message>
 </context>
 <context>
     <name>QtVersion</name>
@@ -16410,162 +16396,6 @@ Preselects a desktop Qt for building the application if available.</source>
     </message>
 </context>
 <context>
-    <name>QObject</name>
-    <message>
-        <source>Pass</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Expected Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Expected Pass</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Warning</source>
-        <translation type="unfinished">Попередження</translation>
-    </message>
-    <message>
-        <source>Qt Warning</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Qt Debug</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Critical</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fatal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Skipped</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Info</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>QTestLib::Internal::QTestOutputPane</name>
-    <message>
-        <source>Test Results</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Result</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Message</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>QTestLib::Internal::QTestOutputWidget</name>
-    <message>
-        <source>All Incidents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Show Only:</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>RegExp::Internal::RegExpWindow</name>
-    <message>
-        <source>&amp;Pattern:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Text:</source>
-        <translation type="unfinished">&amp;Текст:</translation>
-    </message>
-    <message>
-        <source>&amp;Minimal</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Wildcard</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Escaped pattern:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Pattern syntax:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Case &amp;sensitive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Index of match:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Matched length:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Regular Expression v1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Regular Expression v2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Fixed String</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Capture %1:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Match:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Regular Expression</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter Pattern from Code...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Patterns</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Text</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enter Pattern from Code</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pattern</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>ResourceEditor::Internal::ResourceEditorPlugin</name>
     <message>
         <source>Creates a Qt Resource file (.qrc) that you can add to a Qt C++ project.</source>
@@ -16589,20 +16419,6 @@ Preselects a desktop Qt for building the application if available.</source>
     <message>
         <source>untitled</source>
         <translation>без назви</translation>
-    </message>
-</context>
-<context>
-    <name>Snippets::Internal::SnippetsPlugin</name>
-    <message>
-        <source>Snippets</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Snippets::Internal::SnippetsWindow</name>
-    <message>
-        <source>Snippets</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18079,158 +17895,6 @@ The following encodings are likely to fit:</source>
     </message>
 </context>
 <context>
-    <name>AboutDialog</name>
-    <message>
-        <source>About Bauhaus</source>
-        <comment>AboutDialog</comment>
-        <translation>Про Bauhaus</translation>
-    </message>
-</context>
-<context>
-    <name>MainWindow</name>
-    <message>
-        <source>Bauhaus</source>
-        <comment>MainWindowClass</comment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>&amp;File</source>
-        <translation>&amp;Файл</translation>
-    </message>
-    <message>
-        <source>&amp;New...</source>
-        <translation>&amp;Новий...</translation>
-    </message>
-    <message>
-        <source>Ctrl+N</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>&amp;Open...</source>
-        <translation>&amp;Відкрити...</translation>
-    </message>
-    <message>
-        <source>Ctrl+O</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Recent Files</source>
-        <translation>Нещодавні файли</translation>
-    </message>
-    <message>
-        <source>&amp;Save</source>
-        <translation>&amp;Зберегти</translation>
-    </message>
-    <message>
-        <source>Ctrl+S</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Save &amp;As...</source>
-        <translation>Зберегти &amp;як...</translation>
-    </message>
-    <message>
-        <source>&amp;Preview</source>
-        <translation>&amp;Попередній перегляд</translation>
-    </message>
-    <message>
-        <source>Ctrl+R</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>&amp;Preview with Debug</source>
-        <translation>&amp;Попередній перегляд із зневадженням</translation>
-    </message>
-    <message>
-        <source>Ctrl+D</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>&amp;Quit</source>
-        <translation>Ви&amp;йти</translation>
-    </message>
-    <message>
-        <source>Ctrl+Q</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>&amp;Edit</source>
-        <translation>&amp;Правка</translation>
-    </message>
-    <message>
-        <source>Ctrl+Z</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Ctrl+Y</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Ctrl+Shift+Z</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>&amp;Copy</source>
-        <translation>&amp;Копіювати</translation>
-    </message>
-    <message>
-        <source>&amp;Cut</source>
-        <translation>Вирі&amp;зати</translation>
-    </message>
-    <message>
-        <source>&amp;Paste</source>
-        <translation>&amp;Вставити</translation>
-    </message>
-    <message>
-        <source>&amp;Delete</source>
-        <translation>Ви&amp;далити</translation>
-    </message>
-    <message>
-        <source>Del</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Backspace</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>&amp;View</source>
-        <translation>&amp;Вид</translation>
-    </message>
-    <message>
-        <source>&amp;Help</source>
-        <translation>&amp;Довідка</translation>
-    </message>
-    <message>
-        <source>&amp;About...</source>
-        <translation>&amp;Про...</translation>
-    </message>
-    <message>
-        <source>Properties</source>
-        <translation>Властивості</translation>
-    </message>
-    <message>
-        <source>Could not open file &lt;%1&gt;</source>
-        <translation>Неможливо відкрити файл &lt;%1&gt;</translation>
-    </message>
-    <message>
-        <source>Qml Errors:</source>
-        <translation>Помилки Qml:</translation>
-    </message>
-    <message>
-        <source>
-%1 %2:%3 - %4</source>
-        <translation>
-%1 %2:%3 - %4</translation>
-    </message>
-    <message>
-        <source>
-%1:%2 - %3</source>
-        <translation>
-%1:%2 - %3</translation>
-    </message>
-</context>
-<context>
     <name>MimeType</name>
     <message>
         <source>BMP image</source>
@@ -19290,6 +18954,10 @@ Server list was %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>An instance of the CDB engine is still running; cannot create an a new instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;not supported&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19376,7 +19044,8 @@ Server list was %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The CDB debug engine does not support the &apos;%1</source>
+        <source>The CDB debug engine does not support the %1 toolchain.</source>
+        <extracomment>%1 is something like &quot;GCCE&quot; or &quot;Intel C++ Compiler (Linux)&quot; (see ToolChain context)</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -19684,6 +19353,10 @@ Setting breakpoints by file name and line number may fail.</source>
 <context>
     <name>Debugger::Internal::TcfTrkGdbAdapter</name>
     <message>
+        <source>Process started, PID: 0x%1, thread id: 0x%2, code segment: 0x%3, data segment: 0x%4.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The reported code segment address (0x%1) might be invalid. Symbol resolution or setting breakoints may not work.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -19773,6 +19446,18 @@ instead of its installation directory when run outside git bash.</source>
     <message>
         <source>Previous Open Document in History</source>
         <translation>Попередній відкритий документ в історії</translation>
+    </message>
+    <message>
+        <source>Go Back</source>
+        <translation type="unfinished">Йти назад</translation>
+    </message>
+    <message>
+        <source>Go Forward</source>
+        <translation type="unfinished">Йти вперед</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Закрити</translation>
     </message>
 </context>
 <context>
@@ -20597,6 +20282,10 @@ stderr was: %1</source>
     <name>Qt4ProjectManager::Internal::MaemoRunControl</name>
     <message>
         <source>No device configuration set for run configuration.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Run configuration no longer available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -22025,34 +21714,6 @@ You can build the application and deploy it on desktop and mobile target platfor
     <name>Qt4ProjectManager::Internal::QmlStandaloneAppWizardSourcesPage</name>
     <message>
         <source>Select QML File</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CVSPlugin</name>
-    <message>
-        <source>Cannot find repository for &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>GdbChooserWidget</name>
-    <message>
-        <source>Unable to run &apos;%1&apos;: %2</source>
-        <translation type="unfinished">Неможливо запустити &apos;%1&apos;: %2</translation>
-    </message>
-</context>
-<context>
-    <name>TcfTrkGdbAdapter</name>
-    <message>
-        <source>Process started, PID: 0x%1, thread id: 0x%2, code segment: 0x%3, data segment: 0x%4.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>GitClient</name>
-    <message>
-        <source>Unable to determine the repository for %1.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
