@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Зневадження</translation>
     </message>
     <message>
         <source>Release</source>
@@ -241,8 +241,8 @@
         <translation>Не вдалось надіслати повідомлення</translation>
     </message>
     <message>
-        <source>Unable to send command line arguments to the already running instance.It appears to be not responding. Do you want to start a new instance of Creator?</source>
-        <translation>Неможливо надіслати аргументи командного рядка до вже запущеного екземпляру. Схоже, що він не відповідає. Бажаєте запустити новий екземпляр Qt Creator?</translation>
+        <source>Unable to send command line arguments to the already running instance. It appears to be not responding. Do you want to start a new instance of Creator?</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Could not find &apos;Core.pluginspec&apos; in %1</source>
@@ -888,7 +888,7 @@ The new branch will depend on the availability of the source branch for all oper
     </message>
     <message>
         <source>Local</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Локальна змінна</translation>
     </message>
     <message>
         <source>Pull Source</source>
@@ -4436,8 +4436,8 @@ if they would align to the next line</source>
 </translation>
     </message>
     <message>
-        <source>Edit</source>
-        <translation>Редагувати</translation>
+        <source>Edit...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Choose Location for New License Template File</source>
@@ -5487,7 +5487,7 @@ GDB дозволяє задавати послідовність команд, �
     </message>
     <message>
         <source>Debugger Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Помилка зневаджувача</translation>
     </message>
     <message>
         <source>There is no CDB executable specified.</source>
@@ -5605,7 +5605,7 @@ GDB дозволяє задавати послідовність команд, �
     </message>
     <message>
         <source>Do not ask again</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не питати знову</translation>
     </message>
 </context>
 <context>
@@ -6900,7 +6900,7 @@ Setting breakpoints by file name and line number may fail.</source>
     <name>Debugger::Internal::PdbEngine</name>
     <message>
         <source>Running requested...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запитано запуск...</translation>
     </message>
     <message>
         <source>Unable to start pdb &apos;%1&apos;: %2</source>
@@ -6908,7 +6908,7 @@ Setting breakpoints by file name and line number may fail.</source>
     </message>
     <message>
         <source>Adapter start failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Збій запуску адаптера</translation>
     </message>
     <message>
         <source>Python Error</source>
@@ -6940,7 +6940,7 @@ Setting breakpoints by file name and line number may fail.</source>
     </message>
     <message>
         <source>The last waitFor...() function timed out. The state of QProcess is unchanged, and you can try calling waitFor...() again.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">У останньої фукнції waitFor...() вичерпано час.Стан QProcess не змінився, ви можете спробувати викликати waitFor...() знову.</translation>
     </message>
     <message>
         <source>An error occurred when attempting to write to the Pdb process. For example, the process may not be running, or it may have closed its input channel.</source>
@@ -7011,7 +7011,7 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>Failed to start application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Збій запуску програми</translation>
     </message>
     <message>
         <source>Application startup failed: %1</source>
@@ -7019,7 +7019,7 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>Stopped.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Зупинено.</translation>
     </message>
     <message>
         <source>&lt;p&gt;An uncaught exception occurred:&lt;/p&gt;&lt;p&gt;%1&lt;/p&gt;</source>
@@ -7207,7 +7207,7 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>Running requested...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запитано запуск...</translation>
     </message>
     <message>
         <source>&apos;%1&apos; contains no identifier</source>
@@ -7227,7 +7227,7 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>Stopped.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Зупинено.</translation>
     </message>
 </context>
 <context>
@@ -9335,7 +9335,7 @@ Add, modify, and remove document filters, which determine the documentation set 
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Розмір</translation>
     </message>
     <message>
         <source>Style</source>
@@ -9501,12 +9501,12 @@ on slow machines. In this case, the value should be increased.</source>
         <translation>Зупиняти, коли трапляється qFatal</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Selecting this enables reverse debugging.&lt;/p&gt;&lt;.p&gt;&lt;b&gt;Note:&lt;/b&gt;This feature is very slow and unstable on the GDB side. It exhibits unpredictable behaviour when going backwards over system calls and is very likely to destroy your debugging session.&lt;/p&gt;&lt;body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Вмикає зворотнє зневадження.&lt;/p&gt;&lt;.p&gt;&lt;b&gt;Примтіка:&lt;/b&gt;Ця функція дуже повільна та нестабільна зі сторони GDB. Вона моде призводити до непередбачуваної поведнки під час проходження назад зі системних викликів, що скоріш за все знищить ваш сеанс зневадження.&lt;/p&gt;&lt;body&gt;&lt;/html&gt;</translation>
-    </message>
-    <message>
         <source>Always try to set breakpoints in plugins automatically</source>
         <translation>Завжди намагатись встановлювати точки перепину в додатках автоматично</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Selecting this enables reverse debugging.&lt;/p&gt;&lt;.p&gt;&lt;b&gt;Note:&lt;/b&gt; This feature is very slow and unstable on the GDB side. It exhibits unpredictable behavior when going backwards over system calls and is very likely to destroy your debugging session.&lt;/p&gt;&lt;body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9620,7 +9620,7 @@ on slow machines. In this case, the value should be increased.</source>
     <name>GenericLinuxDeviceConfigurationWizardSetupPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сторінка майстра</translation>
     </message>
     <message>
         <source>The name to identify this configuration:</source>
@@ -9853,7 +9853,7 @@ These files are preserved.</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Розмір</translation>
     </message>
     <message>
         <source>Lock aspect ratio</source>
@@ -11005,7 +11005,7 @@ You can choose between stashing the changes or discarding them.</source>
     <name>Gitorious::Internal::GitoriousProjectWidget</name>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сторінка майстра</translation>
     </message>
     <message>
         <source>...</source>
@@ -11039,7 +11039,7 @@ You can choose between stashing the changes or discarding them.</source>
     <name>Gitorious::Internal::GitoriousRepositoryWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сторінка майстра</translation>
     </message>
     <message>
         <source>Name</source>
@@ -12346,7 +12346,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <name>MaemoDeviceConfigWizardCheckPreviousKeySetupPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сторінка майстра</translation>
     </message>
     <message>
         <source>Has a passwordless (key-based) login already been set up for this device?</source>
@@ -12365,7 +12365,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <name>MaemoDeviceConfigWizardKeyCreationPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сторінка майстра</translation>
     </message>
     <message>
         <source>Qt Creator will now generate a new pair of keys. Please enter the directory to save the key files in and then press &quot;Create Keys&quot;.</source>
@@ -12384,7 +12384,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <name>MaemoDeviceConfigWizardKeyDeploymentPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сторінка майстра</translation>
     </message>
     <message>
         <source>To deploy the public key to your device, please execute the following steps:
@@ -12414,11 +12414,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <name>MaemoDeviceConfigWizardReuseKeysCheckPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do wou want to re-use an existing pair of keys or should a new one be created?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сторінка майстра</translation>
     </message>
     <message>
         <source>Re-use existing keys</source>
@@ -12436,12 +12432,16 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <source>Create new keys</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Do you want to re-use an existing pair of keys or should a new one be created?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MaemoDeviceConfigWizardStartPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сторінка майстра</translation>
     </message>
     <message>
         <source>The name to identify this configuration:</source>
@@ -12536,11 +12536,11 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>&amp;Username:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ім&apos;я користувача:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Пароль:</translation>
     </message>
     <message>
         <source>Show password</source>
@@ -12594,10 +12594,6 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Edit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Package name:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -12623,6 +12619,10 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     </message>
     <message>
         <source>Edit spec file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12661,7 +12661,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <name>MaemoPublishingResultPageFremantleFree</name>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сторінка майстра</translation>
     </message>
     <message>
         <source>Progress</source>
@@ -12672,7 +12672,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <name>MaemoPublishingUploadSettingsPageFremantleFree</name>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сторінка майстра</translation>
     </message>
     <message>
         <source>Upload Settings</source>
@@ -12707,7 +12707,7 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
     <name>MaemoPublishingWizardPageFremantleFree</name>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сторінка майстра</translation>
     </message>
     <message>
         <source>Choose build configuration:</source>
@@ -13537,20 +13537,20 @@ To do this, you type this shortcut and a space in the Locator entry field, and t
         <translation>Пріоритет</translation>
     </message>
     <message>
-        <source>Add</source>
-        <translation>Додати</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation>Редагувати</translation>
-    </message>
-    <message>
         <source>Remove</source>
         <translation>Видалити</translation>
     </message>
     <message>
         <source>Reset all to default.</source>
         <translation>Скинути все до типового.</translation>
+    </message>
+    <message>
+        <source>Add...</source>
+        <translation type="unfinished">Додати...</translation>
+    </message>
+    <message>
+        <source>Edit...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13668,7 +13668,7 @@ Preselects Qt for Simulator and mobile targets if available.</source>
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Увімкнено</translation>
     </message>
     <message>
         <source>This property holds whether the item accepts mouse events.</source>
@@ -13984,7 +13984,7 @@ Preselects Qt for Simulator and mobile targets if available.</source>
     </message>
     <message>
         <source>Edit File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Редагувати файл</translation>
     </message>
     <message>
         <source>Add</source>
@@ -15710,8 +15710,8 @@ to project &apos;%2&apos;.</source>
         <translation>Видалити</translation>
     </message>
     <message>
-        <source>Rename</source>
-        <translation>Перейменувати</translation>
+        <source>Rename ...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15984,8 +15984,8 @@ to project &apos;%2&apos;.</source>
         <translation>Управління проектом</translation>
     </message>
     <message>
-        <source>Manage</source>
-        <translation>Управління</translation>
+        <source>Manage ...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16461,7 +16461,7 @@ Reason: %2</source>
     <name>ProjectExplorer::ToolChainConfigWidget</name>
     <message>
         <source>&amp;Debugger:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Зневад&amp;жувач:</translation>
     </message>
     <message>
         <source>Autodetect</source>
@@ -17661,7 +17661,7 @@ Do you still want to load the settings file?</source>
     <name>QmlJSTools</name>
     <message>
         <source>Code Style</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Стиль коду</translation>
     </message>
     <message>
         <source>Qt Quick</source>
@@ -17672,7 +17672,7 @@ Do you still want to load the settings file?</source>
     <name>QmlJSTools::Internal::FunctionFilter</name>
     <message>
         <source>Methods and functions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Методи та функції</translation>
     </message>
 </context>
 <context>
@@ -18082,7 +18082,7 @@ You can review Qt Quick UI projects in the QML Viewer and you need not build the
 <context>
     <name>QmlProjectManager::Internal::QmlProjectRunConfigurationWidget</name>
     <message>
-        <source>Manage Qt versions</source>
+        <source>Manage Qt versions...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -18150,7 +18150,7 @@ You can review Qt Quick UI projects in the QML Viewer and you need not build the
     <name>QmlProjectManager::QmlProjectPlugin</name>
     <message>
         <source>Open Qt4 Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Відкрити опції Qt4</translation>
     </message>
     <message>
         <source>QML Observer Missing</source>
@@ -18273,8 +18273,8 @@ You can review Qt Quick UI projects in the QML Viewer and you need not build the
         <translation>Специфічно для Symbian</translation>
     </message>
     <message>
-        <source>Maemo5 And Meego Specific</source>
-        <translation>Специфічно для Maemo5 та Meego</translation>
+        <source>Maemo5 And MeeGo Specific</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Harmattan Specific</source>
@@ -19093,16 +19093,16 @@ Adds the library and include paths to the .pro file.</source>
         <translation>Інші файли</translation>
     </message>
     <message>
+        <source>Cannot open the file for editing with VCS.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Failed!</source>
         <translation>Збій!</translation>
     </message>
     <message>
         <source>Cannot Open File</source>
         <translation>Неможливо відкрити файл</translation>
-    </message>
-    <message>
-        <source>Cannot open the file for edit with VCS.</source>
-        <translation>Не вдалось відкрити файл для редагування за допомогою VCS.</translation>
     </message>
     <message>
         <source>Cannot Set Permissions</source>
@@ -19184,11 +19184,6 @@ Adds the library and include paths to the .pro file.</source>
         <translation>Неправильна версія Qt</translation>
     </message>
     <message>
-        <source>An build for a different project exists in %1, which will be overwritten.</source>
-        <comment>%1 build directory</comment>
-        <translation>Збірка для іншого проекту існує в %1, яка не буде перезаписана.</translation>
-    </message>
-    <message>
         <source>Error:</source>
         <translation>Помилка: </translation>
     </message>
@@ -19209,6 +19204,11 @@ Adds the library and include paths to the .pro file.</source>
         <source>%1 Debug</source>
         <extracomment>Name of a debug build configuration to created by a project wizard, %1 being the Qt version name. We recommend not translating it.</extracomment>
         <translation></translation>
+    </message>
+    <message>
+        <source>A build for a different project exists in %1, which will be overwritten.</source>
+        <comment>%1 build directory</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 Release</source>
@@ -19387,7 +19387,7 @@ Adds the library and include paths to the .pro file.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No .pro file for plugin &apos;%1&apos; cannot be found.</source>
+        <source>No .pro file for plugin &apos;%1&apos; can be found.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -19798,7 +19798,7 @@ Use a developer certificate or any other signing option to prevent this patching
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">невідомо</translation>
     </message>
     <message>
         <source>ROM version:</source>
@@ -20031,11 +20031,11 @@ S60 emulator run configuration default display name, %1 is base pro-File name</e
     </message>
     <message>
         <source>The .pro file is currently being parsed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Здійснюється розбір файлу .pro.</translation>
     </message>
     <message>
         <source>The .pro file could not be parsed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не вдалось розібрати файл .pro.</translation>
     </message>
 </context>
 <context>
@@ -20551,7 +20551,7 @@ Your application will also be rejected by Ovi QA if you choose an unreleased Qt 
     <name>Qt4ProjectManager::QmlDebuggingLibrary</name>
     <message>
         <source>QML Debugging</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Зневадження QML</translation>
     </message>
     <message>
         <source>The target directory %1 could not be created.</source>
@@ -20791,9 +20791,9 @@ Reason: %2</source>
         <translation></translation>
     </message>
     <message>
-        <source>Meego</source>
-        <comment>Qt4 Meego target display name</comment>
-        <translation></translation>
+        <source>MeeGo</source>
+        <comment>Qt4 MeeGo target display name</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbian Emulator</source>
@@ -20863,11 +20863,11 @@ Reason: %2</source>
     </message>
     <message>
         <source>The .pro file is currently being parsed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Здійснюється розбір файлу .pro.</translation>
     </message>
     <message>
         <source>The .pro file could not be parsed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не вдалось розібрати файл .pro.</translation>
     </message>
 </context>
 <context>
@@ -20881,7 +20881,7 @@ Reason: %2</source>
     <name>Qt4ProjectManager::S60RunControlBase</name>
     <message>
         <source>Launching</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запуск</translation>
     </message>
     <message>
         <source>Please finalise the installation on your device.
@@ -21041,10 +21041,6 @@ Reason: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Qt Quick Components for Meego/Harmattan</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Use an existing .qml file</source>
         <translation type="unfinished"></translation>
     </message>
@@ -21061,13 +21057,17 @@ Requires Qt 4.7.3 or newer, and the component set installed for your Qt version.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The Qt Quick Components for Meego/Harmattan are a set of ready-made components that are designed with specific native appearance for the Meego/Harmattan platform.
-
-Requires Qt 4.7.4 or newer, and the component set installed for your Qt version.</source>
+        <source>All files and directories that reside in the same directory as the main QML file are deployed. You can modify the contents of the directory any time before deploying.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>All files and directories that reside in the same directory as the main QML file are deployed. You can modify the contents of the directory any time before deploying.</source>
+        <source>Qt Quick Components for MeeGo/Harmattan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Qt Quick Components for MeeGo/Harmattan are a set of ready-made components that are designed with specific native appearance for the MeeGo/Harmattan platform.
+
+Requires Qt 4.7.4 or newer, and the component set installed for your Qt version.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -21279,16 +21279,16 @@ Requires Qt 4.7.4 or newer, and the component set installed for your Qt version.
         <translation>Розташування qmake</translation>
     </message>
     <message>
-        <source>Add</source>
-        <translation>Додати</translation>
-    </message>
-    <message>
         <source>Remove</source>
         <translation>Видалити</translation>
     </message>
     <message>
         <source>Clean up</source>
         <translation>Підчистити</translation>
+    </message>
+    <message>
+        <source>Add...</source>
+        <translation type="unfinished">Додати...</translation>
     </message>
 </context>
 <context>
@@ -21378,8 +21378,8 @@ Requires Qt 4.7.4 or newer, and the component set installed for your Qt version.
     </message>
     <message>
         <source>Meego</source>
-        <comment>Qt Version is meant for Meego</comment>
-        <translation></translation>
+        <comment>Qt Version is meant for MeeGo</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Qt Simulator</source>
@@ -21729,7 +21729,7 @@ In addition, device connectivity will be tested.</source>
     <name>RemoteLinux::Internal::AbstractMaemoPackageInstaller</name>
     <message>
         <source>Connection failure: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Збій з&apos;єднання: %1. {1?}</translation>
     </message>
     <message>
         <source>Installing package failed.</source>
@@ -22724,7 +22724,7 @@ stderr was: %1</source>
     <name>RemoteLinux::Internal::MaemoRemoteProcessList</name>
     <message>
         <source>Connection failure: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Збій з&apos;єднання: %1. {1?}</translation>
     </message>
     <message>
         <source>Error: Remote process failed to start: %1</source>
@@ -23112,7 +23112,7 @@ We will try to work around that, but you may experience problems.</source>
     </message>
     <message>
         <source>The .pro file could not be parsed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не вдалось розібрати файл .pro.</translation>
     </message>
     <message>
         <source>No device configuration set.</source>
@@ -24039,7 +24039,7 @@ Server list was %2.</source>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Додатково</translation>
     </message>
 </context>
 <context>
@@ -24383,8 +24383,8 @@ Server list was %2.</source>
         <translation>Типова підсвітка</translation>
     </message>
     <message>
-        <source>Download Definitions</source>
-        <translation>Звантаження визначень</translation>
+        <source>Download Definitions...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Autodetect</source>
@@ -24641,8 +24641,8 @@ Please check the directory&apos;s access rights.</source>
         <translation>Визначення підсвітки не було знайдено для цього файлу. Бажаєте спробувати знайти?</translation>
     </message>
     <message>
-        <source>Show highlighter options</source>
-        <translation>Показати опції підсвітки</translation>
+        <source>Show highlighter options...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -26478,7 +26478,7 @@ Influences the indentation of continuation lines.
     <name>VCSBase::BaseCheckoutWizardPage</name>
     <message>
         <source>WizardPage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сторінка майстра</translation>
     </message>
     <message>
         <source>...</source>
@@ -26842,16 +26842,16 @@ Influences the indentation of continuation lines.
 <context>
     <name>VCSBase::VcsConfigurationPage</name>
     <message>
-        <source>Configure</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please configure &lt;b&gt;%1&lt;/b&gt; now.</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Configure...</source>
+        <translation type="unfinished">Налаштувати...</translation>
     </message>
 </context>
 <context>
@@ -27057,7 +27057,7 @@ Influences the indentation of continuation lines.
     </message>
     <message>
         <source>Line:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Рядок:</translation>
     </message>
     <message>
         <source>Position:</source>
@@ -27570,7 +27570,7 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>Thread ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ID нитки</translation>
     </message>
     <message>
         <source>Kind</source>
@@ -27687,7 +27687,7 @@ With cache simulation, further event counters are enabled:
     </message>
     <message>
         <source>&amp;Username:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ім&apos;я користувача:</translation>
     </message>
     <message>
         <source>&lt;Username&gt;</source>
